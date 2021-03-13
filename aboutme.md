@@ -14,6 +14,10 @@ Currently I am working as a PhD candidate, jointly funded by [School of Computin
 
 I am curious about everything in terms of speech and language and I am aware that I need to code everyday to keep myself fresh. I am an active user and lover of [Kaldi](http://kaldi-asr.org) and have bits of contribution to it - Check its running scripts on [Aishell2](https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2) and [HI-MIA](https://github.com/kaldi-asr/kaldi/tree/master/egs/hi_mia/v1) for more.
 
+Some fun facts about me:
+* I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 3 countries, 6 different cities in 5 years.
+* I'm a former hoarder and a current minimalism practitioner.
+
 More detailed ver. of CV is available on request. Cheers!
 
 -------------------

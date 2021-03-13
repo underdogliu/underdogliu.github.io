@@ -19,10 +19,10 @@ nav: true
 -------------------
 ### 2019
 
-* Speaker Recognition, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent App., 2019 (Accepted at 2020)
+* Speaker Recognition, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
 
 -------------------
 ### 2018
 
 * [Teacher-student training for text-independent speaker recognition](https://ieeexplore.ieee.org/document/8639564), Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, IEEE SLT 2018, Athens, Greece
-* [AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale](https://arxiv.org/abs/1808.10583), Jiayu Du, Xingyu Na, **Xuechen Liu**, and Hui Bu, *arXiv:1808.10583*, 2020
+* [AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale](https://arxiv.org/abs/1808.10583), Jiayu Du, Xingyu Na, **Xuechen Liu**, and Hui Bu, *arXiv:1808.10583*, 2018
