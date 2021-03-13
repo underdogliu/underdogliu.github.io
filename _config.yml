@@ -14,10 +14,11 @@ author: Underdog Xuechen Liu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "_pages/aboutme"
-  Publications: "_pages/publications"
-  Blog: "_pages/blog"
-  Events: "_pages/events"
+  Home: ""
+  About: "aboutme"
+  Publications: "publications"
+  Blog: "_posts"
+  Events: "events"
 
 # --- Logo --- #
 
@@ -175,10 +176,6 @@ paginate: 5
 
 kramdown:
   input: GFM
-
-# Includes & excludes
-include: ['_pages']
-exclude: [vendor]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

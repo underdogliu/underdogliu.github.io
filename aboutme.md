@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Lil bit about me.
 ---
 
 Yo what's up? How can you be that bored which leads you to this place, having any interest to an "underdog"?
