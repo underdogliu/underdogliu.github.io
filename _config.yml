@@ -14,7 +14,6 @@ author: Underdog Xuechen Liu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
   About: "aboutme"
   Publications: "publications"
   Blog: "blog"
