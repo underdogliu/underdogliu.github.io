@@ -2,7 +2,7 @@
 layout: page
 permalink: /events/
 title: Events
-description: Other academic activities
+subtitle: Other academic activities
 nav: true
 ---
 

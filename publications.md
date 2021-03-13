@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by year in reverse order
+subtitle: Publications by year in reverse order
 nav: true
 ---
 
