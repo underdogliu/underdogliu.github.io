@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bit of tho-uce on model selection and "ground truth" 
-description: I don't think so. I know I may sound like a knobhead (as I am).
+description: I know I may sound like a knobhead (as I am).
 nav: true
 comment: true
 ---
@@ -39,7 +39,7 @@ So one crazy idea I have here: at least as a speech researcher, I would like to 
 
 -------------------
 ### A 'final' word on blogging
-OK as the first blog I tried to challenge myself by not recalling my previous publications (there is a recent one, but I will talk about it later after more workings) but just drive my thoughts and motivations to write something crazy. This will be the general tempo of this blog - no math, nothing very 'nerdy' (you can find much better people on this one. I am not good enough so far), but just blind catricages from my brain with a little bit of sauce from science and sense of rigor. 
+OK as the first blog I tried to challenge myself by not recalling my previous publications (there is a recent one, but I will talk about it later after more workings) but just drive my thoughts and motivations to write something crazy. This will be the general tempo of this blog - not much mathmatical, nothing very 'nerdy' (you can find much better people on this one. I am not good enough so far), but just random thoughts from my brain with a little bit of sauce from science and sense of rigor - intrisically, that's me.
 
 Again, I hope it can be a good start to write more this year. Looking forward to it.
 
