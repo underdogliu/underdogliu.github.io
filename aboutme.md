@@ -15,8 +15,8 @@ Currently I am working as a 2nd-year PhD candidate, jointly funded by [School of
 I am curious about everything in terms of speech and language and I am aware that I need to code everyday to keep myself fresh. I am an active user and lover of [Kaldi](http://kaldi-asr.org) and have bits of contribution to it - Check its scripts on [Aishell2](https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2) and [HI-MIA](https://github.com/kaldi-asr/kaldi/tree/master/egs/hi_mia/v1) for more.
 
 Some fun and undisturbing facts about me:
-* In my spare time I love running, working out, play basketball and football (soccer in US term) a lot. These are the main cause of my procrastination.
-* I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 cities @ 3 countries in 5 years - and if everything goes right, I am expecting the curated list to include more (practically, not intentionally....)!
+* In my spare time I love running, working out, play basketball and football (soccer in US term) a lot. These are main causes of my procrastination.
+* I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 cities in 5 years.
 * I'm a former hoarder and a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!
