@@ -17,12 +17,13 @@ nav: true
 ### Events
 
 #### Organizer
-* 2021
+* 2021 (so far)
     * [ASVSpoof](https://www.asvspoof.org)
     * Weekly Reading Club, Computational Speech Group @ UEF
 
 #### Participant
-* 2021 (to be updated)
+* 2021 (so far)
+    * Short-duration Speaker Verification Challenge (SdSVC)
 * 2020
     * NIST SRE
     * Short-duration Speaker Verification Challenge (SdSVC)

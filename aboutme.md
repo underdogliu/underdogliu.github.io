@@ -16,7 +16,7 @@ I am curious about everything in terms of speech and language and I am aware tha
 
 Some fun and undisturbing facts about me:
 * In my spare time I love running, working out, play basketball and football (soccer in US term) a lot. These are the main cause of my procrastination.
-* I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 different cities in 5 years.
+* I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 cities @ 3 countries in 5 years - and if everything goes right, I am expecting the curated list to include more (practically, not intentionally....)!
 * I'm a former hoarder and a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!
