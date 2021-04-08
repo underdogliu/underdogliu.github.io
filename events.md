@@ -10,7 +10,7 @@ nav: true
 ### Presentations
 * 2021
     * Weekly Reading Club, Computational Speech Group @ UEF
-        * [01.15 - Collaborative Learning](https://github.com/underdogliu/underdogliu.github.io/blob/main/assets/files/20210115.pdf)
+        * [01.15 - Collaborative Learning](https://docs.google.com/presentation/d/1RCYFQbLoJRrvShqpsSdQSegddKyBBMTPn9bjX1EsKyE/edit?usp=sharing)
         * [02.12 - Filterbank Design (no slides so original paper link here)](https://arxiv.org/abs/1910.10400)
 
 -------------------
