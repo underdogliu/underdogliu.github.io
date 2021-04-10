@@ -12,6 +12,7 @@ nav: true
     * Weekly Reading Club, Computational Speech Group @ UEF
         * [01.15 - Collaborative Learning](https://docs.google.com/presentation/d/1RCYFQbLoJRrvShqpsSdQSegddKyBBMTPn9bjX1EsKyE/edit?usp=sharing)
         * [02.12 - Filterbank Design (no slides so original paper link here)](https://arxiv.org/abs/1910.10400)
+        * [04.09 - Unified Acoustic and Language Modeling](https://docs.google.com/presentation/d/1ZSCScHn7u2lrrSj0DFJX7v9h3LvlzLBq0Dypg8fWpXY/edit?usp=sharing)
 
 -------------------
 ### Events
