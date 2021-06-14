@@ -19,12 +19,12 @@ nav: true
 ### Events
 
 #### Organizer
-* 2021 (so far)
+* 2021
     * [ASVSpoof](https://www.asvspoof.org)
     * Spring Weekly Reading Club, Computational Speech Group @ UEF
 
 #### Participant
-* 2021 (so far)
+* 2021
     * Short-duration Speaker Verification Challenge (SdSVC)
 * 2020
     * NIST SRE
@@ -32,6 +32,8 @@ nav: true
         * [Description of our submission](https://arxiv.org/abs/2007.13118)
 
 -------------------
-### Teaching
+### Teaching & Reviewing
+* 2021
+    * Signal Processing Letters
 * 2020
     * (3612699) Machine Learning for Speech @ UEF [TA]
