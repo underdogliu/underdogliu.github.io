@@ -35,5 +35,6 @@ nav: true
 ### Teaching & Reviewing
 * 2021
     * Signal Processing Letters
+    * (3621688) Artificial Intelligence @ UEF [TA]
 * 2020
     * (3612699) Machine Learning for Speech @ UEF [TA]
