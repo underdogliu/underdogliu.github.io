@@ -27,10 +27,10 @@ nav: true
 
 #### Participant
 * 2021
-    * Short-duration Speaker Verification Challenge (SdSVC)
+    * Short-duration Speaker Verification Challenge (SdSVC-21)
 * 2020
     * NIST SRE
-    * Short-duration Speaker Verification Challenge (SdSVC)
+    * Short-duration Speaker Verification Challenge (SdSVC-20)
         * [Description of our submission](https://arxiv.org/abs/2007.13118)
 
 -------------------
