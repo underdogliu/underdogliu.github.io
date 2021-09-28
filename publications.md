@@ -7,8 +7,8 @@ nav: true
 ---
 
 ### 2021
-* [Optimized Power Normalized Cepstral Coefficients towards Robust Deep Speaker Verification], **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ASRU 2021, Cartagena, Columbia.
-* [Parameterized Channel Normalization for Far-field Deep Speaker Verification], **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ASRU 2021, Cartagena, Columbia.
+* [Optimized Power Normalized Cepstral Coefficients towards Robust Deep Speaker Verification](https://arxiv.org/abs/2109.12058), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ASRU 2021, Cartagena, Columbia.
+* [Parameterized Channel Normalization for Far-field Deep Speaker Verification](https://arxiv.org/abs/2109.12056), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ASRU 2021, Cartagena, Columbia.
 * [ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection](https://arxiv.org/pdf/2109.00537), Junichi Yamagishi, Xin Wang, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, **Xuechen Liu**, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, Héctor Delgado, ASVspoof Workshop 2021.
 * [Learnable MFCCs for Speaker Verification](https://hal.inria.fr/hal-03139532), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ISCAS 2021, Daegu, Korea
 
