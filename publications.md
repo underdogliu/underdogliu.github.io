@@ -9,6 +9,7 @@ nav: true
 I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some of works that I was involved but not listed here (In Chinese, it's called "打酱油")
 
 ### 2021
+* *Optimizing Multi-Taper Features for Deep Speaker Verification (to appear)*, **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE Signal Processing Letters 2021.
 * [Optimized Power Normalized Cepstral Coefficients towards Robust Deep Speaker Verification](https://arxiv.org/abs/2109.12058), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ASRU 2021, Cartagena, Columbia.
 * [Parameterized Channel Normalization for Far-field Deep Speaker Verification](https://arxiv.org/abs/2109.12056), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ASRU 2021, Cartagena, Columbia.
 * [ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection](https://arxiv.org/pdf/2109.00537), Junichi Yamagishi, Xin Wang, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, **Xuechen Liu**, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, Héctor Delgado, ASVspoof Workshop 2021.
