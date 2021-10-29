@@ -10,6 +10,7 @@ nav: true
 ### Presentations
 * 2021
     * Weekly Seminar, MULTISPEECH @ Inria Nancy
+        * [10.29 - A Metric Learning Reality Check](https://docs.google.com/presentation/d/1zU2vrKeAmY_9bmOio0URqi2NKaDTYC7UsfDc7SeQ2fw/edit?usp=sharing)
         * [09.02 - Frontend Optimization Methods for Robust Speaker Verification](https://docs.google.com/presentation/d/1FL5jMZPI-nyfCws-fgU9a15HH78dSXBbVQfJi3LGxlo/edit?usp=sharing)
     * Spring Weekly Reading Club, Computational Speech Group @ UEF
         * [01.15 - Collaborative Learning](https://docs.google.com/presentation/d/1RCYFQbLoJRrvShqpsSdQSegddKyBBMTPn9bjX1EsKyE/edit?usp=sharing)
