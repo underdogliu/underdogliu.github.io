@@ -14,7 +14,7 @@ Some fun and undisturbing facts about me:
 * In my spare time I love running, working out, play basketball and football a lot. These are main causes of my procrastination.
 * I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 cities in 5 years.
 * I'm a former hoarder and a current minimalism practitioner.
-* I currently speaks Python 3.8+, with [black](https://github.com/psf/black) accent.
+* I currently speak Python 3.8+, with [black](https://github.com/psf/black) accent.
 
 More detailed ver. of CV is available on request. Cheers!
 
