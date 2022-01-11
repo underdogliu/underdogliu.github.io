@@ -8,7 +8,7 @@ Yo what's up? How can you be that bored which leads you to this place, having an
 
 -------------------
 ### Little bit on me
-I am Underdog, a research engineer in Speech & Spoken Language Processing. Currently I am working as a 2nd-year PhD candidate, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). Previously I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
+I am Underdog, a research engineer in Speech & Spoken Language Processing. Currently I am working as a 3rd-year PhD candidate, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). Previously I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
 
 Some fun and undisturbing facts about me:
 * In my spare time I love running, working out, play basketball and football a lot. These are main causes of my procrastination.
