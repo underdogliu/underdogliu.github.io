@@ -20,7 +20,8 @@ More detailed ver. of CV is available on request. Cheers!
 
 -------------------
 ### Recent News
+* 2022-01-22: One paper got accepted into ICASSP 2022.
 * 2021-10-15: One paper got accepted into SPL 2021.
 * 2021-09-10: Two papers got accepted into ASRU 2021.
-* 2021-01-30: One paper got accepted into ISCAS 2021.
-* 2020-12-21: One patent I got involved last year at Emotech got accepted.
+<!-- * 2021-01-30: One paper got accepted into ISCAS 2021. -->
+<!-- * 2020-12-21: One patent I got involved last year at Emotech got accepted. -->

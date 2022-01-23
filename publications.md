@@ -8,6 +8,9 @@ nav: true
 
 I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some of works that not listed here due to very little amount of contributions (In Chinese, it's called "打酱油")
 
+### 2022
+* *Learnable Nonlinear Compression for Robust Speaker Verification*,  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ICASSP 2022, Singapore (to appear).
+
 ### 2021
 * [Optimizing Multi-Taper Features for Deep Speaker Verification](https://arxiv.org/abs/2110.10983), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE Signal Processing Letters 2021.
 * [Optimized Power Normalized Cepstral Coefficients towards Robust Deep Speaker Verification](https://arxiv.org/abs/2109.12058), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ASRU 2021, Cartagena, Columbia.
@@ -25,7 +28,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 -------------------
 ### 2019
 
-* Speaker Recognition, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
+* *Speaker Recognition*, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
 
 -------------------
 ### 2018
