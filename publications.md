@@ -6,7 +6,7 @@ subtitle: Publications by year in reverse order
 nav: true
 ---
 
-I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some of works that not listed here due to very little amount of contributions (In Chinese, it's called "打酱油")
+I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that not listed here due to very little amount of contributions (In Chinese, it's called "打酱油")
 
 ### 2022
 * *Learnable Nonlinear Compression for Robust Speaker Verification*,  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ICASSP 2022, Singapore (to appear).
