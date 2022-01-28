@@ -8,6 +8,10 @@ nav: true
 
 -------------------
 ### Presentations
+* 2022
+    * Weekly Reading Club, Computational Speech Group @ UEF
+        * [01.28 - Neural Tangent Kernel](https://docs.google.com/presentation/d/1rRxHgD1xV7at43Db7dqODc4cM_pQ61A3mV4xlLgiy_4/edit?usp=sharing)
+
 * 2021
     * Weekly Seminar, MULTISPEECH @ Inria Nancy
         * [09.02 - Frontend Optimization Methods for Robust Speaker Verification](https://docs.google.com/presentation/d/1FL5jMZPI-nyfCws-fgU9a15HH78dSXBbVQfJi3LGxlo/edit?usp=sharing)
