@@ -28,7 +28,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 -------------------
 ### 2019
 
-* *Speaker Recognition*, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
+* [Speaker Recognition](https://patents.google.com/patent/US11170788B2/en), Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
 
 -------------------
 ### 2018

@@ -25,7 +25,7 @@ nav: true
 -------------------
 ### Events
 
-#### Organizer
+#### Organizer/Supporter
 * 2021
     * [ASVSpoof](https://www.asvspoof.org)
     * Spring Weekly Reading Club, Computational Speech Group @ UEF
@@ -40,9 +40,11 @@ nav: true
 
 -------------------
 ### Teaching & Reviewing
+* 2022
+    * Machine Learning for Speech @ UEF [TA]
 * 2021
     * ICLR 2022 [Reviewer]
     * Signal Processing Letters [Reviewer]
-    * (3621688) Artificial Intelligence @ UEF [TA]
+    * Artificial Intelligence @ UEF [TA]
 * 2020
-    * (3612699) Machine Learning for Speech @ UEF [TA]
+    * Machine Learning for Speech @ UEF [TA]
