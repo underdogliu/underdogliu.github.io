@@ -26,6 +26,9 @@ nav: true
 ### Events
 
 #### Organizer/Supporter
+* 2022
+    * [SASV](https://sasv-challenge.github.io)
+
 * 2021
     * [ASVSpoof](https://www.asvspoof.org)
     * Spring Weekly Reading Club, Computational Speech Group @ UEF
