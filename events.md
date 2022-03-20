@@ -10,6 +10,7 @@ nav: true
 ### Presentations
 * 2022
     * Weekly Reading Club, Computational Speech Group @ UEF
+        * [03.18 - Neuron Shapley](https://docs.google.com/presentation/d/1BspvlYXTal0bXqQj-DFtJD8AUbawRTw1vHb0EdUfuPo/edit?usp=sharing)
         * [01.28 - Neural Tangent Kernel](https://docs.google.com/presentation/d/1rRxHgD1xV7at43Db7dqODc4cM_pQ61A3mV4xlLgiy_4/edit?usp=sharing)
 
 * 2021
