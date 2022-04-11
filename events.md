@@ -28,7 +28,7 @@ nav: true
 
 #### Organizer/Supporter
 * 2022
-    * [SASV](https://sasv-challenge.github.io)
+    * [Spoofing-aware speaker verification (SaSV)](https://sasv-challenge.github.io)
 
 * 2021
     * [ASVSpoof](https://www.asvspoof.org)
@@ -45,6 +45,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2022
+    * NeurIPS 2022 [Reviewer]
     * Machine Learning for Speech @ UEF [TA]
 * 2021
     * ICLR 2022 [Reviewer]
