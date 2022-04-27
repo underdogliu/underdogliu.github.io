@@ -12,8 +12,8 @@ I am an engineer and researcher on speech technologies. Currently I am working a
 
 Some fun and undisturbing facts about me:
 * In my spare time I love training and playing ball sports. These are main causes of my procrastination.
-* I am a huge fan of rap music for decades, without any genre preference. I don't avoid swearing words and bad stuff in rap songs though, which makes me think a lot and cherish the life I am having.
-* I don't like intentional traveling but somehow I'm a nomad. Since the first time I went abroad, I've been living (not short-term traveling) in 6 cities during last 5 years.
+* I am a huge fan of rap music for decades, without any genre preference. I almost never avoid swearing and other bad stuff in rap songs, which makes me embrace and cherish my ordinary life.
+* I don't like intentional traveling but somehow I've been a nomad. Since I went abroad, I've been living (not short-term traveling) in 6 cities during last 5 years.
 * I'm a former hoarder for digital product while now a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!
