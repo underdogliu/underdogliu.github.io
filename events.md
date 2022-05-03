@@ -41,8 +41,9 @@ nav: true
     * Short-duration Speaker Verification Challenge (SdSVC-21)
 * 2020
     * NIST SRE
+        * [System description](https://www.eurecom.fr/publication/6747/download/sec-publi-6747.pdf)
     * Short-duration Speaker Verification Challenge (SdSVC-20)
-        * [Description of our submission](https://arxiv.org/abs/2007.13118)
+        * [System description](https://arxiv.org/abs/2007.13118)
 
 -------------------
 ### Teaching & Reviewing
