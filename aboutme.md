@@ -13,16 +13,17 @@ I am an engineer and researcher on speech technologies. Currently I am working a
 Some fun and undisturbing facts about me:
 * In my spare time I love training and playing ball sports. These are main causes of my procrastination.
 * I am a huge fan of rap music for decades, without any genre preference. I almost never avoid swearing and other bad stuff in rap songs, which makes me embrace and cherish my ordinary life.
-* I don't like intentional traveling but somehow I've been a nomad. Since I went abroad, I've been living (not short-term traveling) in 6 cities during last 5 years.
+* I don't like intentional traveling but somehow I've been a nomad. Since I went abroad, I've been living (not short-term traveling) in 7 cities in 4 countries during last 5 years.
 * I'm a former hoarder for digital product while now a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!
 
 -------------------
 ### Recent News
+* 2022-05-15: I started a summer research attachment at A*STAR @ Singapore.
 * 2022-04-21: Three papers got accepted into Speaker Odyssey 2022.
 * 2022-01-22: One paper got accepted into ICASSP 2022.
-* 2021-10-15: One paper got accepted into SPL 2021.
+<!-- * 2021-10-15: One paper got accepted into SPL 2021. -->
 <!-- * 2021-09-10: Two papers got accepted into ASRU 2021. -->
 <!-- * 2021-01-30: One paper got accepted into ISCAS 2021. -->
 <!-- * 2020-12-21: One patent I got involved last year at Emotech got accepted. -->
