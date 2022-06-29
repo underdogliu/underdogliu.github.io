@@ -48,6 +48,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2022
+    * SLT 2022 [Reviewer]
     * NeurIPS 2022 [Reviewer]
     * Machine Learning for Speech @ UEF [TA]
 * 2021
