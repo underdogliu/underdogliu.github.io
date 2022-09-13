@@ -31,12 +31,13 @@ nav: true
 #### Organizer/Supporter
 * 2022
     * [Spoofing-aware speaker verification (SaSV) Challenge](https://sasv-challenge.github.io)
-
 * 2021
     * [ASVSpoof](https://www.asvspoof.org)
     * Spring Weekly Reading Club, Computational Speech Group @ UEF
 
 #### Participant
+* 2022
+    * VoxCeleb Speaker Recognition Challenge 2022 (VoxSRC-22)
 * 2021
     * Short-duration Speaker Verification Challenge (SdSVC-21)
 * 2020
@@ -48,6 +49,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2022
+    * Artificial Intelligence @ UEF [TA]
     * SLT 2022 [Reviewer]
     * NeurIPS 2022 [Reviewer]
     * Machine Learning for Speech @ UEF [TA]
