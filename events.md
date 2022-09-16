@@ -12,6 +12,7 @@ nav: true
     * Machine Learning for Speech @ UEF
         * [04.21 - A Short Introduction of Speech Recognition](https://docs.google.com/presentation/d/1QxZ-1qC4NYp1OrAan2p2RpVujsx0lbwp4z--BIuc5Fw/edit?usp=sharing)
     * Weekly Reading Club, Computational Speech Group @ UEF
+        * [09.16 - Transmission Neural Networks](https://docs.google.com/presentation/d/1LUIWthcF92Xr0qQw6ZPqat__auRl2Ekw2luFLIbhti8/edit?usp=sharing)
         * [03.18 - Neuron Shapley](https://docs.google.com/presentation/d/1BspvlYXTal0bXqQj-DFtJD8AUbawRTw1vHb0EdUfuPo/edit?usp=sharing)
         * [01.28 - Neural Tangent Kernel](https://docs.google.com/presentation/d/1rRxHgD1xV7at43Db7dqODc4cM_pQ61A3mV4xlLgiy_4/edit?usp=sharing)
 
