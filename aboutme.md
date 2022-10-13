@@ -4,7 +4,12 @@ title: About
 subtitle: Lil bit about me.
 ---
 
-Yo what's up? How can you be that bored which leads you to this place, having any interest to an "underdog"?
+<!-- Yo what's up? How can you be that bored which leads you to this place, having any interest to an "underdog"? -->
+I am now (almost) on the job market. Please DM me on Linkedin or send me email if you interested to hire me! 
+
+I have primary interest in postdoctoral research positions about speech processing, but definitely open to high-tier industry positions as well. I expect myself to graduate at the 2nd half of 2023.
+
+Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr
 
 -------------------
 ### Little bit on me
