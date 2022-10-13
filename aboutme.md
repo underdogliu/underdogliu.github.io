@@ -5,7 +5,8 @@ subtitle: Lil bit about me.
 ---
 
 <!-- Yo what's up? How can you be that bored which leads you to this place, having any interest to an "underdog"? -->
-I now expect myself to graduate at the 2nd half of 2023 and I am now (almost) on the job market. Please DM me on Linkedin or send me email if you interested to hire me! I have primary interest in postdoctoral research positions about speech processing, but definitely open to high-tier industry positions as well.
+
+I now expect myself to graduate at the 2nd half of 2023 and I am now (almost) on the job market. Please DM me on Linkedin or send me email if you are interested to talk! I have primary interest in postdoctoral research positions about speech processing, but definitely open to high-tier industry positions as well.
 
 Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr
 
@@ -15,8 +16,8 @@ I am an engineer and researcher on speech technologies. Currently I am working a
 
 Some fun and undisturbing facts about me:
 * In my spare time I love training and playing ball sports. These are main causes of my procrastination.
-* I am a huge fan of rap music for decades, without any genre preference. I almost never avoid swearing and other bad stuff in rap songs, which makes me embrace and cherish my ordinary life.
-* I don't like intentional traveling but somehow I've been a nomad. Since I went abroad, I've been living (not short-term traveling) in 7 cities in 4 countries during last 5 years.
+* I am a huge fan of rap music for decades, without any genre preference. I almost never avoid bad stuff in rap songs, which makes me embrace and cherish my ordinary life.
+* I don't like intentional traveling but somehow I've been a nomad. I've been living (not short-term traveling) in 7 cities among 4 countries.
 * I'm a former hoarder for digital product while now a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!

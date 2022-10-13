@@ -6,7 +6,7 @@ subtitle: Publications by year in reverse order
 nav: true
 ---
 
-I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that not listed here due to rather less amount of contributions (In Chinese, it's called "打酱油")
+I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油")
 
 ### 2022
 * [ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild](https://arxiv.org/abs/2210.02437), **Xuechen Liu**, Xin Wang, Md Sahidullah _et al_, *arXiv:2210.02437*, 2022.
