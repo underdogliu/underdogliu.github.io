@@ -19,7 +19,6 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 * [Optimizing Multi-Taper Features for Deep Speaker Verification](https://arxiv.org/abs/2110.10983), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE Signal Processing Letters 2021.
 * [Optimized Power Normalized Cepstral Coefficients towards Robust Deep Speaker Verification](https://arxiv.org/abs/2109.12058), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ASRU 2021, Cartagena, Columbia.
 * [Parameterized Channel Normalization for Far-field Deep Speaker Verification](https://arxiv.org/abs/2109.12056), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ASRU 2021, Cartagena, Columbia.
-* [ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection](https://arxiv.org/abs/2109.00537), Junichi Yamagishi, Xin Wang, Massimiliano Todisco _et al_, ASVspoof Workshop 2021.
 * [Learnable MFCCs for Speaker Verification](https://arxiv.org/abs/2102.10322), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ISCAS 2021, Daegu, Korea.
 
 -------------------
