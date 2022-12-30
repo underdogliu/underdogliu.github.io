@@ -30,6 +30,8 @@ nav: true
 ### Events
 
 #### Organizer/Supporter
+* 2023
+    * [ASVSpoof5](https://www.asvspoof.org)
 * 2022
     * [Spoofing-aware speaker verification (SaSV) Challenge](https://sasv-challenge.github.io)
 * 2021
@@ -50,6 +52,8 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2022
+    * ICLR 2023 [Reviewer]
+    * IEEE T-IFS [Reviewer]
     * ICASSP 2023 [Reviewer]
     * Artificial Intelligence @ UEF [TA]
     * SLT 2022 [Reviewer]
@@ -57,7 +61,7 @@ nav: true
     * Machine Learning for Speech @ UEF [TA]
 * 2021
     * ICLR 2022 [Reviewer]
-    * Signal Processing Letters [Reviewer]
+    * IEEE Signal Processing Letters [Reviewer]
     * Artificial Intelligence @ UEF [TA]
 * 2020
     * Machine Learning for Speech @ UEF [TA]
