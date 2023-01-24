@@ -26,6 +26,10 @@ nav: true
         * [02.12 - Filterbank Design (no slides so original paper link here)](https://arxiv.org/abs/1910.10400)
         * [01.15 - Collaborative Learning](https://docs.google.com/presentation/d/1RCYFQbLoJRrvShqpsSdQSegddKyBBMTPn9bjX1EsKyE/edit?usp=sharing)
 
+* 2019
+    * Future of Work, hosted by the Melting Pot
+        * 03.02 - ARTIFICIAL INTELLIGENCE: WHERE WE WILL TAKE IT TO?
+
 -------------------
 ### Events
 
