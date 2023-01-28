@@ -6,13 +6,13 @@ subtitle: Lil bit about me.
 
 <!-- Yo what's up? How can you be that bored which leads you to this place, having any interest to an "underdog"? -->
 
-I now expect myself to graduate at the 2nd half of 2023 and I am now (almost) on the job market. Please DM me on Linkedin or send me email if you are interested to talk! I have primary interest in postdoctoral research positions about speech processing, but definitely open to high-tier industry positions as well.
+<!-- I now expect myself to graduate at the 2nd half of 2023 and I am now (almost) on the job market. Please DM me on Linkedin or send me email if you are interested to talk! I have primary interest in postdoctoral research positions about speech processing, but definitely open to high-tier industry positions as well. -->
 
-Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr
+<!-- Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr -->
 
 -------------------
 ### Little bit on me
-I am an engineer and researcher on speech technologies. Currently I am working as a 3rd-year PhD candidate, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). I am supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). Before the PhD, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
+I am an engineer and researcher on speech technologies. Currently I am trying to graduate as a PhD candidate, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). I am supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). Before the PhD, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
 
 Some fun and undisturbing facts about me:
 * In my spare time I love training and playing ball sports. These are main causes of my procrastination.
@@ -21,6 +21,8 @@ Some fun and undisturbing facts about me:
 * I'm a former hoarder for digital product while now a current minimalism practitioner.
 
 More detailed ver. of CV is available on request. Cheers!
+
+Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr
 
 -------------------
 ### Recent News
