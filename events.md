@@ -8,6 +8,10 @@ nav: true
 
 -------------------
 ### Presentations
+* 2023
+    * Weekly Reading Club, Computational Speech Group @ UEF
+        * [02.24 - PLDA and Cosine Scoring](https://docs.google.com/presentation/d/13CBEwCwv7NOnv0WijjUg_ZayLPOSQhVX/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+
 * 2022
     * Machine Learning for Speech @ UEF
         * [04.21 - A Short Introduction of Speech Recognition](https://docs.google.com/presentation/d/1QxZ-1qC4NYp1OrAan2p2RpVujsx0lbwp4z--BIuc5Fw/edit?usp=sharing)
