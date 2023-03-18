@@ -60,6 +60,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * Special Course in Speech Security and Privacy [Lecturer]
     * ACM TIST [Reviewer]
     * ICML 2023 [Reviewer]
     * IEEE T-IFS [Reviewer]
@@ -68,7 +69,7 @@ nav: true
     * Artificial Intelligence @ UEF [TA]
     * SLT 2022 [Reviewer]
     * NeurIPS 2022 [Reviewer]
-    * Machine Learning for Speech @ UEF [TA]
+    * Machine Learning for Speech @ UEF [TA] [Lecturer]
 * 2021
     * ICLR 2022 [Reviewer]
     * IEEE Signal Processing Letters [Reviewer]
