@@ -60,7 +60,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
-    * Special Course in Speech Security and Privacy [Lecturer]
+    * Special Course in Speech Security and Privacy @ UEF [Lecturer]
     * ACM TIST [Reviewer]
     * ICML 2023 [Reviewer]
     * IEEE T-IFS [Reviewer]
