@@ -60,6 +60,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * NeurIPS 2023 [Reviewer]
     * Special Course in Speech Security and Privacy @ UEF [Lecturer]
     * ACM TIST [Reviewer]
     * ICML 2023 [Reviewer]
