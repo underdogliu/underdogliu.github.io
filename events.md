@@ -9,6 +9,8 @@ nav: true
 -------------------
 ### Presentations
 * 2023
+    * Special course in speech security and privacy @ UEF
+        * [03.30 - Deep Speaker Verification](https://docs.google.com/presentation/d/1wLK6FecPoGcv9a4j48fyGDjNkY-hemYozjjMemijGxU/edit?usp=sharing)
     * Weekly Reading Club, Computational Speech Group @ UEF
         * [02.24 - PLDA and Cosine Scoring](https://docs.google.com/presentation/d/13CBEwCwv7NOnv0WijjUg_ZayLPOSQhVX/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
 
