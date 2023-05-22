@@ -26,9 +26,11 @@ Email: xuechen.liu@uef.fi, xuechen.liu@inria.fr
 
 -------------------
 ### Recent News
+* 2023-05-23: I am going to Tokyo. More details are pending.
+* 2023-05-18: Two papers got accepted into Interspeech 2023.
 * 2022-10-10: Our paper on ASVspoof 2021 has been submitted and [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check!
-* 2022-05-15: I started a summer research attachment at A*STAR @ Singapore.
-* 2022-04-21: Three papers got accepted into Speaker Odyssey 2022.
+<!-- * 2022-05-15: I started a summer research attachment at A*STAR @ Singapore. -->
+<!-- * 2022-04-21: Three papers got accepted into Speaker Odyssey 2022. -->
 <!-- * 2022-01-22: One paper got accepted into ICASSP 2022. -->
 <!-- * 2021-10-15: One paper got accepted into SPL 2021. -->
 <!-- * 2021-09-10: Two papers got accepted into ASRU 2021. -->
