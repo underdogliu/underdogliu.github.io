@@ -20,7 +20,7 @@ Email: xuecliu@nii.ac.jp, xuechen.liu@uef.fi
 -------------------
 ### Recent News
 * 2023-06-02: I have started working as a project postdoctoral researcher at [National Institute of Informatics](https://en.wikipedia.org/wiki/National_Institute_of_Informatics) (Yes, exactly in the building shown in the wiki).
-* 2023-05-27: Our paper on summarizing ASVspoof 2021 will appear on IEEE TASLP. It has been [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check!
+* 2023-05-27: Our paper on summarizing ASVspoof 2021 will appear on IEEE/ACM TASLP. It has been [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check!
 * 2023-05-18: Two papers got accepted into Interspeech 2023.
 <!-- * 2022-10-10: Our paper on ASVspoof 2021 has been submitted and [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check! -->
 <!-- * 2022-05-15: I started a summer research attachment at A*STAR @ Singapore. -->
