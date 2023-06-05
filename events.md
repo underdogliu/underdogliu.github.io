@@ -62,6 +62,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * IEEE Signal Processing Letters [Reviewer]
     * NeurIPS 2023 [Reviewer]
     * Special Course in Speech Security and Privacy @ UEF [Lecturer]
     * ACM TIST [Reviewer]
