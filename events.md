@@ -9,6 +9,8 @@ nav: true
 -------------------
 ### Presentations
 * 2023
+    * Presentation & NII
+        * 06.19 - Advances in Deep Speaker Verification (A PhD research briefing lectio)
     * Special course in speech security and privacy @ UEF
         * [03.30 - Deep Speaker Verification](https://docs.google.com/presentation/d/1wLK6FecPoGcv9a4j48fyGDjNkY-hemYozjjMemijGxU/edit?usp=sharing)
     * Weekly Reading Club, Computational Speech Group @ UEF
@@ -34,7 +36,7 @@ nav: true
 
 * 2019
     * Future of Work @ the Melting Pot, Edinburgh
-        * 03.02 - ARTIFICIAL INTELLIGENCE: WHERE WE WILL TAKE IT TO?
+        * 03.02 - Artificial Intelligence: Where we will take it to?
 
 -------------------
 ### Events
