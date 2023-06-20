@@ -10,7 +10,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 
 ### 2023
 * [Speaker-Aware Anti-Spoofing](https://arxiv.org/abs/2303.01126), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, Interspeech 2023, Dublin, Ireland.
-* [ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild](https://arxiv.org/abs/2210.02437), **Xuechen Liu**, Xin Wang, Md Sahidullah _et al_, IEEE/ACM Transactions on Audio, Speech and Language Processing (*to appear*), 2023.
+* [ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild](https://arxiv.org/abs/2210.02437), **Xuechen Liu**, Xin Wang, Md Sahidullah _et al_, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023.
 
 ### 2022
 * [Baseline Systems for the First Spoofing-Aware Speaker Verification Challenge: Score and Embedding Fusion](https://arxiv.org/abs/2204.09976), Hye-jin Shim, Hemlata Tak, **Xuechen Liu** _et al_, Speaker Odyssey 2022, Beijing, China.

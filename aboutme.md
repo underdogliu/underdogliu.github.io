@@ -5,7 +5,11 @@ title: About
 
 -------------------
 ### Lil bit about me
-I am an engineer and researcher on speech technologies. Currently I am trying to persue a PhD degree, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). I am supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). Before the PhD study, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
+I am an engineer and researcher on speech technologies. Currently I am a postdoctoral researcher at National Institute of Informatics. My main research interest is speaker recognition and spoofing detection.
+
+I meanwhile am at the end of my journey to persue a PhD degree, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). I am supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). 
+
+Before the PhD study, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/), and I have past experience at some great institutes such as [A*STAR](https://www.a-star.edu.sg/) and [CASIA](http://www.nlpr.ia.ac.cn/en).
 
 Some fun and undisturbing facts about me:
 * In my spare time I love training and playing ball sports. These are main causes of my procrastination.
@@ -19,8 +23,8 @@ Email: xuecliu@nii.ac.jp, xuechen.liu@uef.fi
 
 -------------------
 ### Recent News
+* 2023-06-19: Our paper on summarizing ASVspoof 2021 has been [published on IEEE/ACM TASLP](https://ieeexplore.ieee.org/document/10155166). It has been [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check!
 * 2023-06-02: I have started working as a project postdoctoral researcher at [National Institute of Informatics](https://en.wikipedia.org/wiki/National_Institute_of_Informatics) (Yes, exactly in the building shown in the wiki).
-* 2023-05-27: Our paper on summarizing ASVspoof 2021 will appear on IEEE/ACM TASLP. It has been [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check!
 * 2023-05-18: Two papers got accepted into Interspeech 2023.
 <!-- * 2022-10-10: Our paper on ASVspoof 2021 has been submitted and [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check! -->
 <!-- * 2022-05-15: I started a summer research attachment at A*STAR @ Singapore. -->
