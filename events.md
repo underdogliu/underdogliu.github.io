@@ -10,7 +10,7 @@ nav: true
 ### Presentations
 * 2023
     * Presentation & NII
-        * 06.19 - Advances in Deep Speaker Verification (A PhD research briefing lectio)
+        * [06.19 - Advances in Deep Speaker Verification (A PhD research briefing lectio)](https://docs.google.com/presentation/d/11XqIy52-uIadpN2x7U2OZINpx_foocENT1BlyORHaWY/edit?usp=sharing)
     * Special course in speech security and privacy @ UEF
         * [03.30 - Deep Speaker Verification](https://docs.google.com/presentation/d/1wLK6FecPoGcv9a4j48fyGDjNkY-hemYozjjMemijGxU/edit?usp=sharing)
     * Weekly Reading Club, Computational Speech Group @ UEF
@@ -64,6 +64,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * IEEE ASRU 2023 [Reviewer]
     * APSIPA ASC 2023 [Reviewer]
     * IEEE/ACM TASLP [Reviewer]
     * IEEE Signal Processing Letters [Reviewer]
@@ -73,9 +74,9 @@ nav: true
     * ICML 2023 [Reviewer]
     * IEEE T-IFS [Reviewer]
 * 2022
-    * ICASSP 2023 [Reviewer]
+    * IEEE ICASSP 2023 [Reviewer]
     * Artificial Intelligence @ UEF [TA]
-    * SLT 2022 [Reviewer]
+    * IEEE SLT 2022 [Reviewer]
     * NeurIPS 2022 [Reviewer]
     * Machine Learning for Speech @ UEF [TA] [Lecturer]
 * 2021
