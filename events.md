@@ -9,7 +9,7 @@ nav: true
 -------------------
 ### Presentations
 * 2023
-    * Presentation & NII
+    * Self-introduction @ NII
         * [06.19 - Advances in Deep Speaker Verification (A PhD research briefing lectio)](https://docs.google.com/presentation/d/11XqIy52-uIadpN2x7U2OZINpx_foocENT1BlyORHaWY/edit?usp=sharing)
     * Special course in speech security and privacy @ UEF
         * [03.30 - Deep Speaker Verification](https://docs.google.com/presentation/d/1wLK6FecPoGcv9a4j48fyGDjNkY-hemYozjjMemijGxU/edit?usp=sharing)
