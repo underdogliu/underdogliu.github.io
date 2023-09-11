@@ -64,6 +64,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * Joint Workshop of VoicePersonae and ASVspoof [Organizer]
     * Neural Networks [Reviewer]
     * IEEE ASRU 2023 [Reviewer]
     * APSIPA ASC 2023 [Reviewer]
