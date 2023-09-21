@@ -44,6 +44,7 @@ nav: true
 #### Organizer/Supporter
 * 2023
     * [ASVSpoof5](https://www.asvspoof.org)
+    * [Joint Workshop of VoicePersonae and ASVspoof 2023](https://nii-yamagishilab.github.io/workshops/voicepersonae/)
 * 2022
     * [Spoofing-aware speaker verification (SaSV) Challenge](https://sasv-challenge.github.io)
 * 2021
@@ -65,7 +66,6 @@ nav: true
 ### Teaching & Reviewing
 * 2023
     * IEEE ICASSP 2024 [Reviewer]
-    * Joint Workshop of VoicePersonae and ASVspoof [Organizer]
     * Neural Networks [Reviewer]
     * IEEE ASRU 2023 [Reviewer]
     * APSIPA ASC 2023 [Reviewer]
