@@ -5,17 +5,17 @@ title: About
 
 -------------------
 ### Lil bit about me
-I am an engineer and researcher on speech technologies. Currently I am a postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/). My main research interest is speaker recognition and spoofing detection.
+I am an engineer and researcher on speech technologies. Currently I am a postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/). My primary research focus revolves around speaker recognition and spoofing detection.
 
 I meanwhile am at the end of my journey to persue a PhD degree, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). I am supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). Before the PhD study, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
 
 Some fun and undisturbing facts about me:
-* In my spare time I love training and playing ball sports. They are responsible to my procrastination.
-* I am a huge fan of rap music for decades, without any genre preference. I almost never avoid bad stuff in rap songs, which makes me embrace and cherish my ordinary life. I used to chop, but no longer at that level anymore.
-* I don't like intentional traveling but somehow I've been a nomad. I've been living (not short-term traveling) in 8 cities among 5 countries.
-* I'm a former hoarder for digital product while now a minimalism practitioner.
+* I find solace and joy in training and participating in various ball sports. They are responsible to my procrastination.
+* I am a huge fan of rap music for decades, without any genre preference. I almost never avoid controversial content in rap songs; it's a reflection of embracing the diverse aspects of life. I used to chop, but no longer at that level anymore.
+* I don't like intentional traveling yet life has made me a bit of a nomad. I've been living (not short-term traveling) in 8 cities among 5 countries.
+* I've transformed from a digital product hoarder into a practicing minimalist.
 
-More detailed ver. of CV is available on request. Cheers!
+More detailed ver. of CV is available on request. Cheers to the journey ahead!
 
 Email: xuecliu@nii.ac.jp, xuechen.liu@uef.fi
 
