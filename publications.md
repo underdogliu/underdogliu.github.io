@@ -16,7 +16,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 * [Baseline Systems for the First Spoofing-Aware Speaker Verification Challenge: Score and Embedding Fusion](https://arxiv.org/abs/2204.09976), Hye-jin Shim, Hemlata Tak, **Xuechen Liu** _et al_, Speaker Odyssey 2022, Beijing, China.
 * [Baselines and Protocols for Household Speaker Recognition](https://arxiv.org/abs/2205.00288), Alexey Sholokhov, **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, Speaker Odyssey 2022, Beijing, China.
 * [Spoofing-aware Speaker Verification with Unsupervised Domain Adaptation](https://arxiv.org/abs/2203.10992), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, Speaker Odyssey 2022, Beijing, China.
-* [Learnable Nonlinear Compression for Robust Speaker Verification](https://arxiv.org/abs/2202.05236),  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ICASSP 2022, Singapore.
+* [Learnable Nonlinear Compression for Robust Speaker Verification](https://arxiv.org/abs/2202.05236),  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2022, Singapore.
 
 ### 2021
 * [Optimizing Multi-Taper Features for Deep Speaker Verification](https://arxiv.org/abs/2110.10983), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE Signal Processing Letters 2021.
