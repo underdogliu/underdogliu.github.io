@@ -7,7 +7,7 @@ nav: true
 ---
 
 -------------------
-### Presentations
+### Presentations (does not include conference presentations)
 * 2023
     * Research briefing @ NII
         * [11.24 - TBA]
