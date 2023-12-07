@@ -9,6 +9,8 @@ nav: true
 -------------------
 ### Presentations
 * 2023
+    * Research briefing @ NII
+        * [11.24 - TBA]
     * PhD defense lectio
         * [10.18 - Advances in Deep Speaker Verification](https://docs.google.com/presentation/d/15EsDUGzxF6S4Uz5RjX-oih_8xmY36_edkePloMhTw60/edit?usp=sharing)
     * Self-introduction @ NII
@@ -66,6 +68,7 @@ nav: true
 -------------------
 ### Teaching & Reviewing
 * 2023
+    * Computer Speech and Language [Reviewer]
     * IEEE ICASSP 2024 [Reviewer]
     * Neural Networks [Reviewer]
     * IEEE ASRU 2023 [Reviewer]
