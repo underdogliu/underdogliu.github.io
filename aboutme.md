@@ -16,7 +16,7 @@ Some fun and undisturbing facts about me:
 
 More detailed ver. of CV is available on request. Cheers to the journey ahead!
 
-Email: xuecliu@nii.ac.jp, xuechen.liu@uef.fi
+Email: xuecliu@nii.ac.jp
 
 -------------------
 ### Recent News
