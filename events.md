@@ -10,7 +10,7 @@ nav: true
 ### Presentations (does not include conference presentations)
 * 2023
     * Research briefing @ NII
-        * [11.24 - TBA]
+        * 11.24 - Internal Talk
     * PhD defense lectio @ UEF
         * [10.18 - Advances in Deep Speaker Verification](https://docs.google.com/presentation/d/15EsDUGzxF6S4Uz5RjX-oih_8xmY36_edkePloMhTw60/edit?usp=sharing)
     * Self-introduction @ NII

@@ -9,6 +9,9 @@ nav: true
 I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油")
 
 -------------------
+### 2024
+* [Generalizing Speaker Verification for Spoof Awareness in the Embedding Space](https://arxiv.org/abs/2401.11156), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2024.
+
 ### 2023
 * [Advances in Deep Speaker Verification: a study on robustness, portability, and security](https://erepo.uef.fi/bitstream/handle/123456789/30624/urn_isbn_978-952-61-4981-3.pdf?sequence=1), **Xuechen Liu**, PhD dissertation, 2023.
 * [Speaker-Aware Anti-Spoofing](https://arxiv.org/abs/2303.01126), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, Interspeech 2023, Dublin, Ireland.
