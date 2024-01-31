@@ -67,6 +67,9 @@ nav: true
 
 -------------------
 ### Teaching & Reviewing
+* 2024
+    * Interspeech 2024 [Reviewer]
+    * IEEE/ACM TASLP [Reviewer]
 * 2023
     * Computer Speech and Language [Reviewer]
     * IEEE ICASSP 2024 [Reviewer]
