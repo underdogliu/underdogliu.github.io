@@ -7,7 +7,7 @@ nav: true
 ---
 
 -------------------
-### Presentations (does not include conference presentations)
+### Presentations (This list does not include conference posters and presentations)
 * 2023
     * Research briefing @ NII
         * 11.24 - Internal Talk
@@ -67,31 +67,24 @@ nav: true
 
 -------------------
 ### Teaching & Reviewing
-* 2024
-    * Interspeech 2024 [Reviewer]
-    * IEEE/ACM TASLP [Reviewer]
-* 2023
-    * Computer Speech and Language [Reviewer]
-    * IEEE ICASSP 2024 [Reviewer]
-    * Neural Networks [Reviewer]
-    * IEEE ASRU 2023 [Reviewer]
-    * APSIPA ASC 2023 [Reviewer]
-    * IEEE/ACM TASLP [Reviewer]
-    * IEEE Signal Processing Letters [Reviewer]
-    * NeurIPS 2023 [Reviewer]
-    * Special Course in Speech Security and Privacy @ UEF [Lecturer]
-    * ACM TIST [Reviewer]
-    * ICML 2023 [Reviewer]
-    * IEEE T-IFS [Reviewer]
-* 2022
-    * IEEE ICASSP 2023 [Reviewer]
-    * Artificial Intelligence @ UEF [TA]
-    * IEEE SLT 2022 [Reviewer]
-    * NeurIPS 2022 [Reviewer]
-    * Machine Learning for Speech @ UEF [TA] [Lecturer]
-* 2021
-    * ICLR 2022 [Reviewer]
-    * IEEE Signal Processing Letters [Reviewer]
-    * Artificial Intelligence @ UEF [TA]
-* 2020
-    * Machine Learning for Speech @ UEF [TA]
+
+#### Journal Paper Reviewing
+* IEEE/ACM T-ASLP: 2023, 2024
+* IEEE Signal Processing Letters: 2021, 2023, 2024
+* IEEE T-IFS: 2023 
+* Computer Speech and Language: 2023
+* ACM TIST: 2023
+
+#### Conference Paper Reviewing
+* IEEE ICASSP: 2023, 2024
+* ISCA Interspeech: 2024
+* IEEE ASRU: 2023
+* IEEE SLT: 2023
+* NeurIPS: 2022, 2023
+* ICLR: 2022, 2023
+* ICML: 2023
+
+#### Teaching (TA, guest lecturing)
+* Artificial Intelligence @ UEF: 2021, 2022
+* Special Course in Speech Security and Privacy @ UEF: 2023
+* Machine Learning for Speech @ UEF: 2020, 2022

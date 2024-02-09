@@ -6,7 +6,7 @@ title: About
 -------------------
 I am an engineer and researcher on speech technologies. Currently I am a postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/). My primary research focus revolves around speaker recognition and spoofing detection.
 
-I have defended my PhD dissertation, which has been jointly supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). The PhD program is jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). Before the PhD study, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
+I have obtained my BEng, MSc, and PhD degree in 2016, 2017, and 2023 respectively. My PhD dissertation has been jointly supervised by [Md Sahidullah](https://scholar.google.co.in/citations?user=jRcYfsQAAAAJ&hl=en) and [Tomi Kinnunen](http://cs.joensuu.fi/pages/tkinnu/webpage/). The PhD program is jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). From 2017 to 2019, I was an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/), a London-based startup (although I was based at Edinburgh).
 
 Some fun and undisturbing facts about me:
 * I find solace and joy in training and participating in various ball sports. They are responsible to my procrastination.
