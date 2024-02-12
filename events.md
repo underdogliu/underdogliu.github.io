@@ -72,6 +72,7 @@ nav: true
 * IEEE/ACM T-ASLP: 2023, 2024
 * IEEE Signal Processing Letters: 2021, 2023, 2024
 * IEEE T-IFS: 2023 
+* Speech Communication: 2024
 * Computer Speech and Language: 2023
 * ACM TIST: 2023
 
