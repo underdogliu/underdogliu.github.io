@@ -83,7 +83,7 @@ nav: true
 * IEEE SLT: 2023
 * NeurIPS: 2022, 2023
 * ICLR: 2022, 2023
-* ICML: 2023
+* ICML: 2023, 2024
 
 #### Teaching (TA, guest lecturing)
 * Artificial Intelligence @ UEF: 2021, 2022
