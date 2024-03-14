@@ -1,0 +1,101 @@
+baseURL: "https://underdogliu.github.io" 
+title: Xuechen "UNDERDOG" Liu
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About
+          url: about/
+          weight: 1
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Events
+          url: events/
+          weight: 3
+        - name: Blog
+          url: blog/
+          weight: 4 
+
+params:
+    description: "I am an engineer and researcher on speech technologies."
+    author: Xuechen Liu
+    DateFormat: "March 2024"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Xuechen "UNDERDOG" Liu
+          subtitle: "Postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/)"
+          imageUrl: "xuechen-avatar.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Xuechen
+          buttons:
+            - name: About
+              url: about/
+            - name: Papers
+              url: papers/
+            - name: Events
+              url: events/
+            - name: Blog
+              url: blog/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+    socialIcons:
+        - name: Email
+          url: mailto:xuecliu@nii.ac.jp
+        - name: Google Scholar
+          url: https://scholar.google.fi/citations?user=Xou0DaUAAAAJ&hl=zh-CN
+        - name: GitHub
+          url: https://github.com/underdogliu
+        - name: Twitter
+          url: https://twitter.com/underdogliu
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: ""
+      icon: xuechen-avatar.jpeg
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Bit of tho-uce on model selection and ground truth | Xuechen &#34;UNDERDOG&#34; Liu</title>
+<meta name="keywords" content="">
+<meta name="description" content="I know I may sound like a knobhead (as I am).">
+<meta name="author" content="Xuechen Liu">
+<link rel="canonical" href="http://localhost:1313/2021-03-11-model-selection/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.ceedb4bfad9c836660a1794574b00e044af05e0e43d78e579aecd60de809fae9.css" integrity="sha256-zu20v62cg2ZgoXlFdLAOBErwXg5D145XmuzWDegJ&#43;uk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/2021-03-11-model-selection/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Bit of tho-uce on model selection and ground truth" />
+<meta property="og:description" content="I know I may sound like a knobhead (as I am)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/2021-03-11-model-selection/" /><meta property="article:section" content="blog" />
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Bit of tho-uce on model selection and ground truth"/>
+<meta name="twitter:description" content="I know I may sound like a knobhead (as I am)."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blog",
+      "item": "http://localhost:1313/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Bit of tho-uce on model selection and ground truth",
+      "item": "http://localhost:1313/2021-03-11-model-selection/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Bit of tho-uce on model selection and ground truth",
+  "name": "Bit of tho-uce on model selection and ground truth",
+  "description": "I know I may sound like a knobhead (as I am).",
+  "keywords": [
+    
+  ],
+  "articleBody": " Basics about model selection So I believe model selection has been both intuitively and mathematically detailed by many brilliant blog posts. For example this one . In general it is a quite self-explained method: you want to select best models across different ones for your scenario. In order to do that one has to design his/her own method so it’s quite intuitive. It can be as simple as in supervised learning, where we simply get several models and compute their pre-designed loss functions on a held-out set from training data, which we usually call ‘validation’ and never got into the main training process; or as complicated as acquiring some weird distribution and compute Kullback-Leibler divergence. The complicated case in one of previous works I got involved [1] - we use simple things like mean-squared error and it lay more on engineering effort, though.\nOf course, some substitutes such as model averaging is also very popular, espeically a hybrid of filtering \u0026 averaging - remove bad model below some threshold after each iteration, and calculate average weights across models. Model averaging happens a lot as well for good regression models, and also sometimes for neural networks (e.g. Kaldi raw DNN. Check this script for more information).\nThere are probabilistic measurements as well, including things like AIC, BIC… yet to not let things going too Bayesian and cognitive side I’ll not address it too much here. More details can be found in the link above. Here we keep thing intuitive.\nBut…..sometimes isn’t ‘ground truth’ bothering? But whichever method we use, we anyway have to do two things to leverage model selection process:\nSelect a proper criteria/loss function. Have a ‘ground truth’ held-out dataset for computing them. There are other works that only need step 1 by computing alternate representations from input and calculate them. For example, in spectral analysis, sometimes people use all-pole excitations and derive ‘ground truth’ spectrum as ground truth. They can use useful either for stats analysis and model training/validation. But sometimes, design of both steps can be pain in the ass\nThere are plenty of loss functions available. For different scenarios their efficiency can be different. There is nothing like ‘ground truth’, apart from the labels themselves. OK, I know somebody may raise things like minimum description length (MDL) or Occam’s razor - the former is math implementation of the latter. But that is based on perfect hypothesis across all models, which, especially in the era of those neural network “black-boxes”, we can’t tell. So if we kick it away, “ground truth” in particular, can be annoying to argue and discuss. We can find loss function from some earlier papers or code, but for “ground truth”, especially if sometimes we wanna do unsupervised model selection, we never know what’s gonna happen but have to explore all options in the wild.\nCan we wave ‘ground truth’ away? –Dropout Cognitively, we can’t. As in our daily life, we measure everything using some reference. But sometimes, such reference can come from nowhere and disruptively come against common rules, which starts from randomness and comes static and natural as time goes, right? Same in machine learning: there has a way to perform model selection by starting from randomness and letting the learning be stable as time goes, which is Dropout [2].\nOK I know it sounds like a really boring answer and I seems made a huge mistake on what Dropout is from above - Dropout is all about randomness. As seen in the paper, every neuron is assigned by a probability and good forwarding with significant gradient occupation would not guarantee its significance in next iteration, as a result. On top of it Sida et al proposed a more efficient version [3] via Gaussian masking instead of conventional Bernoulli one. But such randomness from Monte Carlo simulation still holds. If we would like to do deterministic selection, we may still needs some external representation. Also, maybe I am terribly wrong - can Dropout be applied to regression models? I am lacking knowledge on this one for sure but as far as I know the answer is no…\nDoes ‘deterministic’ Dropout via alternative representation makes sense? So one crazy idea I have here: at least as a speech researcher, I would like to find a way to have an unsupervised model selection method which can let the model figure out which part of its components can be abandoned for this iteration via some deterministic or predictable information? One choice I think and am experimenting on is its alternate representation. This will be much similar to self-supervised learning models (in speech, a good example can be PASE . But it also performs conventional Dropout in my understanding, if it has it). But I believe there are some other methods such as statistical thingy. I am investigating on it and we will see how it goes.\nA ‘final’ word on blogging OK as the first blog I tried to challenge myself by not recalling my previous publications (there is a recent one, but I will talk about it later after more workings) but just drive my thoughts and motivations to write something crazy. This will be the general tempo of this blog - not much mathmatical, nothing very ’nerdy’ (you can find much better people on this one. I am not good enough so far), but just random thoughts from my brain with a little bit of sauce from science and sense of rigor - intrisically, that’s me.\nAgain, I hope it can be a good start to write more this year. Looking forward to it.\nUNDERDOG\n2021-03-11\nNancy, 23C, Sunny\nReferences [1] Teacher-student training for text-independent speaker recognition , Raymond W. M. Ng, Xuechen Liu, and Pawel Swietojanski, IEEE SLT 2018.\n[2] Dropout: A Simple Way to Prevent Neural Networks from Overfitting , Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov, JMLR 2014.\n[3] Fast dropout training , Sida Wang, Christopher Manning, ICML 2013.\n",
+  "wordCount" : "993",
+  "inLanguage": "en",
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Xuechen Liu"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/2021-03-11-model-selection/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Xuechen \"UNDERDOG\" Liu",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Xuechen &#34;UNDERDOG&#34; Liu">
+             
+                <img src="http://localhost:1313/xuechen-avatar.jpeg" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Xuechen &#34;UNDERDOG&#34; Liu</a>
+            <div class="logo-switches">
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers/" title="Papers">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/events/" title="Events">
+                    <span>Events</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Bit of tho-uce on model selection and ground truth
+    </h1>
+    <div class="post-meta">Xuechen Liu
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h3 id="basics-about-model-selection">Basics about model selection</h3>
+<p>So I believe model selection has been both intuitively and mathematically detailed by many brilliant blog posts. For example <a href="https://machinelearningmastery.com/a-gentle-introduction-to-model-selection-for-machine-learning/" target="_blank">this one</a>
+. In general it is a quite self-explained method: <em>you want to select best models across different ones for your scenario</em>. In order to do that one has to design his/her own method so it’s quite intuitive. It can be as simple as in supervised learning, where we simply get several models and compute their pre-designed loss functions on a held-out set from training data, which we usually call ‘validation’ and never got into the main training process; or as complicated as acquiring some weird distribution and compute Kullback-Leibler divergence. The complicated case in one of previous works I got involved [1] - we use simple things like mean-squared error and it lay more on engineering effort, though.</p>
+<p>Of course, some substitutes such as model averaging is also very popular, espeically a hybrid of filtering &amp; averaging - remove bad model below some threshold after each iteration, and calculate average weights across models. Model averaging happens a lot as well for good regression models, and also sometimes for neural networks (e.g. Kaldi raw DNN. Check <a href="https://github.com/kaldi-asr/kaldi/blob/master/egs/wsj/s5/steps/nnet3/train_raw_dnn.py" target="_blank">this script</a>
+ for more information).</p>
+<p>There are probabilistic measurements as well, including things like AIC, BIC… yet to not let things going too Bayesian and cognitive side I’ll not address it too much here. More details can be found in the link above. Here we keep thing intuitive.</p>
+<hr>
+<h3 id="butsometimes-isnt-ground-truth-bothering">But&hellip;..sometimes isn&rsquo;t &lsquo;ground truth&rsquo; bothering?</h3>
+<p>But whichever method we use, we anyway have to do two things to leverage model selection process:</p>
+<ol>
+<li>Select a proper criteria/loss function.</li>
+<li>Have a &lsquo;ground truth&rsquo; held-out dataset for computing them.</li>
+</ol>
+<p>There are other works that only need step 1 by computing alternate representations from input and calculate them. For example, in spectral analysis, sometimes people use all-pole excitations and derive &lsquo;ground truth&rsquo; spectrum as ground truth. They can use useful either for stats analysis and model training/validation. But sometimes, design of both steps can be pain in the ass</p>
+<ul>
+<li>There are plenty of loss functions available. For different scenarios their efficiency can be different.</li>
+<li>There is nothing like &lsquo;ground truth&rsquo;, apart from the labels themselves.</li>
+</ul>
+<p>OK, I know somebody may raise things like <a href="https://en.wikipedia.org/wiki/Minimum_description_length" target="_blank">minimum description length</a>
+ (MDL) or Occam&rsquo;s razor - the former is math implementation of the latter. But that is based on perfect hypothesis across all models, which, especially in the era of those neural network &ldquo;black-boxes&rdquo;, we can&rsquo;t tell. So if we kick it away, &ldquo;ground truth&rdquo; in particular, can be annoying to argue and discuss. We can find loss function from some earlier papers or code, but for &ldquo;ground truth&rdquo;, especially if sometimes we wanna do <strong>unsupervised</strong> model selection, we never know what&rsquo;s gonna happen but have to explore all options in the wild.</p>
+<hr>
+<h3 id="can-we-wave-ground-truth-away---dropout">Can we wave &lsquo;ground truth&rsquo; away? &ndash;Dropout</h3>
+<p>Cognitively, we can&rsquo;t. As in our daily life, we measure everything using some reference. But sometimes, such reference can come from nowhere and disruptively come against common rules, which starts from randomness and comes static and natural as time goes, right? Same in machine learning: there has a way to perform model selection by starting from randomness and letting the learning be stable as time goes, which is Dropout [2].</p>
+<p>OK I know it sounds like a really boring answer and I seems made a huge mistake on what Dropout is from above - Dropout is all about randomness. As seen in the paper, every neuron is assigned by a probability and good forwarding with significant gradient occupation would not guarantee its significance in next iteration, as a result. On top of it Sida et al proposed a more efficient version [3] via Gaussian masking instead of conventional Bernoulli one. But such randomness from Monte Carlo simulation still holds. If we would like to do deterministic selection, we may still needs some external representation. Also, maybe I am terribly wrong - can Dropout be applied to regression models? I am lacking knowledge on this one for sure but as far as I know the answer is no&hellip;</p>
+<hr>
+<h3 id="does-deterministic-dropout-via-alternative-representation-makes-sense">Does &lsquo;deterministic&rsquo; Dropout via alternative representation makes sense?</h3>
+<p>So one crazy idea I have here: at least as a speech researcher, I would like to find a way to have an <em>unsupervised</em> model selection method which can let the model figure out which part of its components can be abandoned for this iteration via some deterministic or predictable information? One choice I think and am experimenting on is its alternate representation. This will be much similar to self-supervised learning models (in speech, a good example can be <a href="https://github.com/santi-pdp" target="_blank">PASE</a>
+. But it also performs conventional Dropout in my understanding, if it has it). But I believe there are some other methods such as statistical thingy. I am investigating on it and we will see how it goes.</p>
+<hr>
+<h3 id="a-final-word-on-blogging">A &lsquo;final&rsquo; word on blogging</h3>
+<p>OK as the first blog I tried to challenge myself by not recalling my previous publications (there is a recent one, but I will talk about it later after more workings) but just drive my thoughts and motivations to write something crazy. This will be the general tempo of this blog - not much mathmatical, nothing very &rsquo;nerdy&rsquo; (you can find much better people on this one. I am not good enough so far), but just random thoughts from my brain with a little bit of sauce from science and sense of rigor - intrisically, that&rsquo;s me.</p>
+<p>Again, I hope it can be a good start to write more this year. Looking forward to it.</p>
+<hr>
+<p>UNDERDOG</p>
+<p>2021-03-11</p>
+<p>Nancy, 23C, Sunny</p>
+<hr>
+<h3 id="references">References</h3>
+<p>[1] <a href="https://ieeexplore.ieee.org/document/8639564" target="_blank">Teacher-student training for text-independent speaker recognition</a>
+, Raymond W. M. Ng, Xuechen Liu, and Pawel Swietojanski, IEEE SLT 2018.</p>
+<p>[2] <a href="https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf" target="_blank">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>
+, Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov, JMLR 2014.</p>
+<p>[3] <a href="https://nlp.stanford.edu/pubs/sidaw13fast.pdf" target="_blank">Fast dropout training</a>
+, Sida Wang, Christopher Manning, ICML 2013.</p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    &copy; 2024 Xuechen &#34;UNDERDOG&#34; Liu
+    <span>
+    &middot;  Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
