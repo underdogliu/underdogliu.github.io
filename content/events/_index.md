@@ -73,6 +73,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * IEEE T-IFS: 2023 
 * Speech Communication: 2024
 * Computer Speech and Language: 2023
+* Neural Networks: 2024
 * ACM TIST: 2023
 
 #### Conference Paper Reviewing
