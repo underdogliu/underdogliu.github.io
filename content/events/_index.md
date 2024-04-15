@@ -70,7 +70,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 #### Journal Paper Reviewing
 * IEEE/ACM T-ASLP: 2023, 2024
 * IEEE Signal Processing Letters: 2021, 2023, 2024
-* IEEE T-IFS: 2023 
+* IEEE T-IFS: 2023, 2024
 * Speech Communication: 2024
 * Computer Speech and Language: 2023
 * Neural Networks: 2024
