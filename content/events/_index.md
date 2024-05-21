@@ -81,7 +81,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * ISCA Interspeech: 2024
 * IEEE ASRU: 2023
 * IEEE SLT: 2023
-* NeurIPS: 2022, 2023
+* NeurIPS: 2022, 2023, 2024
 * ICLR: 2022, 2023
 * ICML: 2023, 2024
 
