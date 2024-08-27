@@ -7,7 +7,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 
 -------------------
 ### 2024
-* A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection, **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024 (to appear), Darmstadt, Germany.
+* [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024 (to appear), Darmstadt, Germany.
 * [Generalizing Speaker Verification for Spoof Awareness in the Embedding Space](https://arxiv.org/abs/2401.11156), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2024.
 
 ### 2023
