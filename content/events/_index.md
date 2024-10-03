@@ -41,7 +41,7 @@ This tab includes all my alternative activities. I am slowly updating it.
         * [01.15 - Collaborative Learning](https://docs.google.com/presentation/d/1RCYFQbLoJRrvShqpsSdQSegddKyBBMTPn9bjX1EsKyE/edit?usp=sharing)
 
 * 2019
-    * Future of Work @ the Melting Pot, Edinburgh
+    * Future of Work @ the Melting Pot, Edinburgh, United Kingdom
         * 03.02 - Artificial Intelligence: Where we will take it to?
 
 -------------------
