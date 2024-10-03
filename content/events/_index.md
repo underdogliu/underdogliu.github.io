@@ -7,6 +7,10 @@ This tab includes all my alternative activities. I am slowly updating it.
 
 ---
 ### Presentations (This list does not include conference posters and presentations)
+* 2024
+    * BIOSIG 2024 @ Darmstadt, Germany
+        * [09.25 - A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection)](https://drive.google.com/file/d/1WMnyBhvlVQWCaSZZramVWYnLI_sNrEZB/view?usp=share_link)
+        * The actual oral presentation at the conference was given by [Prof. Junichi Yamagishi](https://nii-yamagishilab.github.io/author/junichi-yamagishi)
 * 2023
     * Research briefing @ NII
         * 11.24 - Internal Talk
