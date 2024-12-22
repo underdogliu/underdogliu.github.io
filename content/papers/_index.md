@@ -6,6 +6,9 @@ description: "Selected publications by year in reverse order"
 I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油").
 
 -------------------
+### 2025
+* [Explaining Speaker and Spoof Embeddings via Probing], **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025, Hyderabad, India.
+
 ### 2024
 * [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024, Darmstadt, Germany.
 * [Generalizing Speaker Verification for Spoof Awareness in the Embedding Space](https://arxiv.org/abs/2401.11156), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2024.

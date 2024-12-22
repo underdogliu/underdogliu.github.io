@@ -20,10 +20,11 @@ Email: xuecliu@nii.ac.jp
 
 -------------------
 ### Recent News
+* 2024-12-20: One paper has been accepted to [ICASSP 2025](https://2025.ieeeicassp.org/).
 * 2024-08-05: Two papers have been accepted to [BIOSIG 2024](https://biosig.de/). 
 * 2024-06-06: Two papers have been accepted to [Interspeech 2024](https://interspeech2024.org/).
 * 2024-06-02: [ASVspoof5](https://www.asvspoof.org) has opened. We welcome the registration and related research!
-* 2024-01-20: One paper has been accepted to [IEEE/ACM TASLP](https://ieeexplore.ieee.org/document/10415203). It is also [available on Arxiv](https://arxiv.org/abs/2401.11156).
+<!-- * 2024-01-20: One paper has been accepted to [IEEE/ACM TASLP](https://ieeexplore.ieee.org/document/10415203). It is also [available on Arxiv](https://arxiv.org/abs/2401.11156). -->
 <!-- * 2023-10-18: I have defended my PhD dissertation. My opponent was [Lauri Juvela](https://scholar.google.co.jp/citations?user=q7-khVcAAAAJ&hl=fi). The press release is [here](https://www.uef.fi/en/article/doctoral-defence-of-xuechen-liu-msc-18102023-advances-in-deep-speaker-verification-a-study-on). -->
 <!-- * 2023-10-06: My doctoral dissertation is [online](http://urn.fi/URN:ISBN:978-952-61-4981-3). -->
 <!-- * 2023-06-19: Our paper on summarizing ASVspoof 2021 has been [published on IEEE/ACM TASLP](https://ieeexplore.ieee.org/document/10155166). It has been [available on Arxiv](https://arxiv.org/abs/2210.02437). Please have a check! -->
