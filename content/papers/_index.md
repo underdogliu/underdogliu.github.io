@@ -7,7 +7,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 
 -------------------
 ### 2025
-* [Explaining Speaker and Spoof Embeddings via Probing], **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025, Hyderabad, India.
+* [Explaining Speaker and Spoof Embeddings via Probing](https://arxiv.org/abs/2412.18191), **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025, Hyderabad, India.
 
 ### 2024
 * [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024, Darmstadt, Germany.
@@ -21,7 +21,6 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 -------------------
 ### 2022
 * [Baseline Systems for the First Spoofing-Aware Speaker Verification Challenge: Score and Embedding Fusion](https://arxiv.org/abs/2204.09976), Hye-jin Shim, Hemlata Tak, **Xuechen Liu** _et al_, Speaker Odyssey 2022, Beijing, China.
-* [Baselines and Protocols for Household Speaker Recognition](https://arxiv.org/abs/2205.00288), Alexey Sholokhov, **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, Speaker Odyssey 2022, Beijing, China.
 * [Spoofing-aware Speaker Verification with Unsupervised Domain Adaptation](https://arxiv.org/abs/2203.10992), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, Speaker Odyssey 2022, Beijing, China.
 * [Learnable Nonlinear Compression for Robust Speaker Verification](https://arxiv.org/abs/2202.05236),  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2022, Singapore.
 
@@ -34,7 +33,6 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 
 -------------------
 ### 2020
-* [UIAI System for Short-Duration Speaker Verification Challenge 2020](https://arxiv.org/abs/2007.13118), Md Sahidullah, Achintya Kumar Sarkar, Ville Vestman, **Xuechen Liu**, _et al_, IEEE SLT 2021, Shenzhen, China.
 * [A Comparative Re-Assessment of Feature Extractors for Deep Speaker Embeddings](https://arxiv.org/abs/2007.15283), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, INTERSPEECH 2020, Shanghai, China.
 * [Building Proactive Voice Assistants: When and How (not) to Interact](https://arxiv.org/abs/2005.01322), Ondra Miksik, Indeera Munasinghe, Javier Asensio-Cubero _et al_, *arXiv:2005.01322*, 2020.
 
