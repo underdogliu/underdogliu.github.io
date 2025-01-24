@@ -82,11 +82,11 @@ This tab includes all my alternative activities. I am slowly updating it.
 
 #### Conference Paper Reviewing
 * IEEE ICASSP: 2023, 2024
-* ISCA Interspeech: 2024
+* ISCA Interspeech: 2024, 2025
 * IEEE ASRU: 2023
-* IEEE SLT: 2023
+* IEEE SLT: 2024
 * NeurIPS: 2022, 2023, 2024
-* ICLR: 2022, 2023
+* ICLR: 2022, 2023, 2024
 * ICML: 2023, 2024
 
 #### Teaching (TA, guest lecturing)
