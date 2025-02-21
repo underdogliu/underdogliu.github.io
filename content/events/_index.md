@@ -87,7 +87,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * IEEE SLT: 2024
 * NeurIPS: 2022, 2023, 2024
 * ICLR: 2022, 2023, 2024
-* ICML: 2023, 2024
+* ICML: 2023, 2024, 2025
 
 #### Teaching (TA, guest lecturing)
 * Artificial Intelligence @ UEF: 2021, 2022
