@@ -72,7 +72,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 ### Teaching & Reviewing
 
 #### Journal Paper Reviewing
-* IEEE/ACM T-ASLP: 2023, 2024
+* IEEE/ACM T-ASLP: 2023, 2024, 2025
 * IEEE Signal Processing Letters: 2021, 2023, 2024
 * IEEE T-IFS: 2023, 2024
 * Speech Communication: 2024
@@ -85,7 +85,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * ISCA Interspeech: 2024, 2025
 * IEEE ASRU: 2023
 * IEEE SLT: 2024
-* NeurIPS: 2022, 2023, 2024
+* NeurIPS: 2022, 2023, 2024, 2025
 * ICLR: 2022, 2023, 2024
 * ICML: 2023, 2024, 2025
 
