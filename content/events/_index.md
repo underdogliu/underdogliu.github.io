@@ -79,6 +79,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * Computer Speech and Language: 2023
 * Neural Networks: 2024
 * ACM TIST: 2023
+* ACL ARR: 2025
 
 #### Conference Paper Reviewing
 * IEEE ICASSP: 2023, 2024
