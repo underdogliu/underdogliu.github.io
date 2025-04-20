@@ -7,6 +7,10 @@ This tab includes all my alternative activities. I am slowly updating it.
 
 ---
 ### Presentations (This list does not include conference posters and presentations)
+* 2025
+    * ICASSP 2025 @ Hyderabad, India
+        * [04.09 - Explaining Speaker and Spoof Embeddings via Probing](https://drive.google.com/file/d/1I9lFvjTIjpa-dZbHvlh1OWXIwvryI8X_/view?usp=sharing)
+        * The actual presentation at the conference was given by [Dr. Md Sahidullah](https://scholar.google.com/citations?user=jRcYfsQAAAAJ)
 * 2024
     * BIOSIG 2024 @ Darmstadt, Germany
         * [09.25 - A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection)](https://drive.google.com/file/d/1WMnyBhvlVQWCaSZZramVWYnLI_sNrEZB/view?usp=share_link)
