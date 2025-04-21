@@ -3,7 +3,7 @@ title: "Papers"
 description: "Selected publications by year in reverse order"
 ---
 
-I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油").
+Below are selected papers. I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油").
 
 -------------------
 ### 2025
@@ -15,6 +15,7 @@ I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0
 
 ### 2023
 * [Advances in Deep Speaker Verification: a study on robustness, portability, and security](https://erepo.uef.fi/bitstream/handle/123456789/30624/urn_isbn_978-952-61-4981-3.pdf?sequence=1), **Xuechen Liu**, PhD dissertation, 2023.
+* [Speaker-Text Retrieval via Constrastive Learning](https://arxiv.org/abs/2312.06055), **Xuechen Liu**, Xin Wang, Erica Cooper, Xiaoxiao Miao, and Junichi Yamagishi, 2023.
 * [Speaker-Aware Anti-Spoofing](https://arxiv.org/abs/2303.01126), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, Interspeech 2023, Dublin, Ireland.
 * [ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild](https://arxiv.org/abs/2210.02437), **Xuechen Liu**, Xin Wang, Md Sahidullah _et al_, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023.
 
