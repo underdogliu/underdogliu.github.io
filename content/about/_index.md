@@ -20,9 +20,9 @@ Email: xuecliu@nii.ac.jp
 
 -------------------
 ### Recent News
+* 2025-05-28: The [ASVspoof5 database paper](https://www.sciencedirect.com/science/article/pii/S0885230825000506?via%3Dihub) has been accepted to [Computer, Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)! Please have a check on our effort on building the database for the latest version of the ASVspoof series.
 * 2025-05-20: Two co-authored papers have been accepted to [Interspeech 2025](https://www.interspeech2025.org/home).
-* 2025-05-09: The [ASVspoof5 database paper](https://arxiv.org/abs/2502.08857) has been accepted to [Computer, Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)! Please have a check on our effort on building the database for the latest version of the ASVspoof series.
 * 2024-12-20: One paper has been accepted to [ICASSP 2025](https://2025.ieeeicassp.org/).
-* 2024-08-05: Two papers have been accepted to [BIOSIG 2024](https://biosig.de/). 
-* 2024-06-06: Two co-authored papers have been accepted to [Interspeech 2024](https://interspeech2024.org/).
+<!-- * 2024-08-05: Two papers have been accepted to [BIOSIG 2024](https://biosig.de/).  -->
+<!-- * 2024-06-06: Two co-authored papers have been accepted to [Interspeech 2024](https://interspeech2024.org/). -->
 <!-- * 2024-06-02: [ASVspoof5](https://www.asvspoof.org) has opened. We welcome the registration and related research! -->
