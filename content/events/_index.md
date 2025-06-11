@@ -76,7 +76,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 ### Teaching & Reviewing
 
 #### Journal Paper Reviewing
-* IEEE/ACM T-ASLP: 2023, 2024, 2025
+* IEEE (formerly IEEE/ACM) T-ASLP: 2023, 2024, 2025
 * IEEE Signal Processing Letters: 2021, 2023, 2024
 * IEEE T-IFS: 2023, 2024
 * Speech Communication: 2024
