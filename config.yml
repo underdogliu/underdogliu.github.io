@@ -50,7 +50,7 @@ params:
           enabled: true
           title: Xuechen "UNDERDOG" Liu
           subtitle: "Postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/)"
-          imageUrl: "xuechen-avatar.jpeg"
+          imageUrl: "xuechen-avatar.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Xuechen
