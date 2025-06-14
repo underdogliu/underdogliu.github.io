@@ -85,7 +85,7 @@ params:
         hiddenInSingle: true
     label:
       text: ""
-      icon: xuechen-avatar.jpeg
+      icon: xuechen-avatar.png
       iconHeight: 18
 
 markup:
