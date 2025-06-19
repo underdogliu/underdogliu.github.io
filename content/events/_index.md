@@ -9,7 +9,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 ### Presentations (This list does not include conference posters and presentations)
 * 2025
     * NII Openhouse 2025 @ Tokyo, Japan
-        * 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
+        * 06.20 - 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
     * ICASSP 2025 @ Hyderabad, India
         * [04.09 - Explaining Speaker and Spoof Embeddings via Probing](https://drive.google.com/file/d/1I9lFvjTIjpa-dZbHvlh1OWXIwvryI8X_/view?usp=sharing)
         * The actual session oral presentation at the conference was given by [Dr. Md Sahidullah](https://scholar.google.com/citations?user=jRcYfsQAAAAJ)
