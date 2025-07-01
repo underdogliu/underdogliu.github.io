@@ -6,7 +6,7 @@ description: "Other academic activities"
 This tab includes all my alternative activities. I am slowly updating it.
 
 ---
-### Presentations (This list does not include conference posters and presentations)
+### Presentations & Talks (This list does not include conference posters)
 * 2025
     * NII Openhouse 2025 @ Tokyo, Japan
         * 06.20 - 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
