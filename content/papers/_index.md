@@ -7,11 +7,11 @@ Below are selected papers. I have a [Google Scholar profile](https://scholar.goo
 
 -------------------
 ### 2025
-* [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://www.arxiv.org/abs/2507.16220), **Xuechen Liu**, Wanying Ge, Xin Wang, and Junichi Yamagishi, IEEE IJCB 2025, Osaka, Japan.
+* [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://www.arxiv.org/abs/2507.16220), **Xuechen Liu**, Wanying Ge, Xin Wang, and Junichi Yamagishi, IEEE IJCB 2025 (oral), Osaka, Japan.
 * [Explaining Speaker and Spoof Embeddings via Probing](https://arxiv.org/abs/2412.18191), **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025, Hyderabad, India.
 
 ### 2024
-* [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024, Darmstadt, Germany.
+* [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024 (oral), Darmstadt, Germany.
 * [Generalizing Speaker Verification for Spoof Awareness in the Embedding Space](https://arxiv.org/abs/2401.11156), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2024.
 
 ### 2023
