@@ -8,6 +8,8 @@ This tab includes all my alternative activities. I am slowly updating it.
 ---
 ### Presentations & Talks (This list does not include conference posters)
 * 2025
+    * IJCB 2025 @ Osaka, Japan
+        * 09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech
     * NII Openhouse 2025 @ Tokyo, Japan
         * 06.20 - 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
     * ICASSP 2025 @ Hyderabad, India
@@ -88,6 +90,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * ACL ARR: 2025
 
 #### Conference Paper Reviewing
+* AAAI: 2026
 * IEEE ICASSP: 2023, 2024
 * ISCA Interspeech: 2024, 2025
 * IEEE ASRU: 2023, 2025
