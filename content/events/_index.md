@@ -9,16 +9,16 @@ This tab includes all my alternative activities. I am slowly updating it.
 ### Presentations & Talks (This list does not include conference posters)
 * 2025
     * IJCB 2025 @ Osaka, Japan
-        * 09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech
+        * [09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://drive.google.com/file/d/1mFbQxjxlmaKba1X-BG9Q2WXO-Z4R1_Se/view?usp=share_link)
     * NII Openhouse 2025 @ Tokyo, Japan
         * 06.20 - 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
     * ICASSP 2025 @ Hyderabad, India
         * [04.09 - Explaining Speaker and Spoof Embeddings via Probing](https://drive.google.com/file/d/1I9lFvjTIjpa-dZbHvlh1OWXIwvryI8X_/view?usp=sharing)
-        * The actual session oral presentation at the conference was given by [Dr. Md Sahidullah](https://scholar.google.com/citations?user=jRcYfsQAAAAJ)
+        * The onsite oral presentation was done by [Dr. Md Sahidullah](https://scholar.google.com/citations?user=jRcYfsQAAAAJ)
 * 2024
     * BIOSIG 2024 @ Darmstadt, Germany
         * [09.25 - A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection)](https://drive.google.com/file/d/1WMnyBhvlVQWCaSZZramVWYnLI_sNrEZB/view?usp=share_link)
-        * The actual oral presentation at the conference was given by [Prof. Junichi Yamagishi](https://nii-yamagishilab.github.io/author/junichi-yamagishi)
+        * The onsite oral presentation was done by [Prof. Junichi Yamagishi](https://nii-yamagishilab.github.io/author/junichi-yamagishi)
 * 2023
     * Research briefing @ NII
         * 11.24 - Internal Talk
