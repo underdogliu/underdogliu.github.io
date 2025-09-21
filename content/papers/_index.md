@@ -3,7 +3,9 @@ title: "Papers"
 description: "Selected publications by year in reverse order"
 ---
 
-Below are selected papers. I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including some works that are not here due to rather less amount of contributions (In Chinese, it's called "打酱油").
+Below are selected (mainly 1st-authored) papers.
+
+I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including more co-authored works (In Chinese, it's called "打酱油").
 
 -------------------
 ### 2025
@@ -22,7 +24,6 @@ Below are selected papers. I have a [Google Scholar profile](https://scholar.goo
 
 -------------------
 ### 2022
-* [Baseline Systems for the First Spoofing-Aware Speaker Verification Challenge: Score and Embedding Fusion](https://arxiv.org/abs/2204.09976), Hye-jin Shim, Hemlata Tak, **Xuechen Liu** _et al_, Speaker Odyssey 2022, Beijing, China.
 * [Spoofing-aware Speaker Verification with Unsupervised Domain Adaptation](https://arxiv.org/abs/2203.10992), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, Speaker Odyssey 2022, Beijing, China.
 * [Learnable Nonlinear Compression for Robust Speaker Verification](https://arxiv.org/abs/2202.05236),  **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2022, Singapore.
 
