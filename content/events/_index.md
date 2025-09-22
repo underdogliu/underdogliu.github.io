@@ -9,19 +9,19 @@ This tab includes all my alternative activities. I am slowly updating it.
 ### Presentations & Talks (This list does not include conference posters)
 * 2025
     * IJCB 2025 @ Osaka, Japan
-        * [09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://docs.google.com/presentation/d/15MMGNUoXaRrXj5XO8CUfcXoynojXjnpZ/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+        * [09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://drive.google.com/file/d/17-o3KAOdhvv_WuFWRxfozNN2q8Bungmt/view?usp=share_link)
     * NII Openhouse 2025 @ Tokyo, Japan
         * 06.20 - 汎用性と頑健性を備えた 音声ディープフェイク検出 (Japanese poster narration only)
     * ICASSP 2025 @ Hyderabad, India
-        * [04.09 - Explaining Speaker and Spoof Embeddings via Probing](https://docs.google.com/presentation/d/19b5cNELEvQDbo7LnDCiRysQQyYVxigco/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+        * [04.09 - Explaining Speaker and Spoof Embeddings via Probing](https://drive.google.com/file/d/1AL0vYv5MBgN3KP_Zh5RXuf4FFMAfziSE/view?usp=sharing)
         * The onsite oral presentation was done by [Dr. Md Sahidullah](https://scholar.google.com/citations?user=jRcYfsQAAAAJ)
 * 2024
     * BIOSIG 2024 @ Darmstadt, Germany
-        * [09.25 - A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection)](https://docs.google.com/presentation/d/1jvg8HYwVqeI6ib2NVWSlebYQzvukzltp/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+        * [09.25 - A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection)](https://drive.google.com/file/d/1ctyQoPYnkwBJSA4esWsBWdzaYdK71Jqx/view?usp=sharing)
         * The onsite oral presentation was done by [Prof. Junichi Yamagishi](https://nii-yamagishilab.github.io/author/junichi-yamagishi)
 * 2023
     * Research briefing @ NII
-        * [11.24 - Linking Speaker and Textual Information via Contrastive Learning](https://docs.google.com/presentation/d/1BG-5Zjr-GRniFWQNBzV9--dHDwwVcoHS/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+        * [11.24 - Linking Speaker and Textual Information via Contrastive Learning](https://drive.google.com/file/d/1TMgjumejr6_4Zbv7SqtSoWrtu3ol45Zo/view?usp=sharing)
     * PhD defense lectio @ UEF
         * [10.18 - Advances in Deep Speaker Verification](https://docs.google.com/presentation/d/1YrdicnQWPzEZ3Y8x3xosq7oYAhdCud3O/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
     * Self-introduction @ NII
@@ -40,7 +40,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 
 * 2021
     * IEEE ISCAS @ Online
-        * [05.24 - Learnable MFCCs for Speaker Verification](https://docs.google.com/presentation/d/1rOrvSW2QAUHpJJxfAWh67oNDvvX_c1oo/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+        * [05.24 - Learnable MFCCs for Speaker Verification](https://drive.google.com/file/d/1NWo7kxkPT7Y7KFZspo0IYIBvsli6vzUH/view?usp=sharing)
     * Weekly Seminar, MULTISPEECH @ Inria Nancy
         * [09.02 - Frontend Optimization Methods for Robust Speaker Verification](https://docs.google.com/presentation/d/1ws7wtRhR-Vwjn1g5T5bDB01GhjS_DE9Z/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
     * Weekly Reading Club, Computational Speech Group @ UEF
