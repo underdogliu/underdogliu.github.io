@@ -20,6 +20,7 @@ Email: xuecliu@nii.ac.jp
 
 -------------------
 ### Recent News
+* 2025-12-18: One paper has been accepted to [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing).
 * 2025-08-06: One co-authored paper has been accepted to [ASRU 2025](https://2025.ieeeasru.org).
 * 2025-07-10: One paper has been accepted to [IJCB 2025](https://ijcb2025.ieee-biometrics.org).
 * 2025-05-28: The [ASVspoof5 database paper](https://www.sciencedirect.com/science/article/pii/S0885230825000506?via%3Dihub) has been accepted to [Computer, Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)! Please have a check on our effort on building the database for the latest version of the ASVspoof series.

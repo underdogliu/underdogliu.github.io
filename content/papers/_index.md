@@ -8,6 +8,9 @@ Below are selected (mainly 1st-authored) papers.
 I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including more co-authored works (In Chinese, it's called "打酱油").
 
 -------------------
+### 2026
+* Learning Relationship between Speaker Embeddings and Descriptions of Speaker Traits, **Xuechen Liu**, Junichi Yamagishi, Xin Wang, and Erica Cooper, IEEE/ACM Transactions on Audio, Speech and Language Processing (to appear), 2026.
+
 ### 2025
 * [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://www.arxiv.org/abs/2507.16220), **Xuechen Liu**, Wanying Ge, Xin Wang, and Junichi Yamagishi, IEEE IJCB 2025 (oral), Osaka, Japan.
 * [Explaining Speaker and Spoof Embeddings via Probing](https://arxiv.org/abs/2412.18191), **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025 (oral), Hyderabad, India.
