@@ -10,7 +10,7 @@ disableAnchoredHeadings: true
 ---
 
 ---
-### Short Opening
+## Short Opening
 In my post last year, I genuinely thought: since 2024 was already that dramatic, can 2025 really get worse?
 
 Damn. It really can.
@@ -26,7 +26,7 @@ So yeah, maybe I don’t get to complain too much.
 Come On You Spurs & Let’s Go Pacers!
 
 -------------------
-### Going through my personal notion
+## Going through my personal notion
 Below are some things I did this year—again, I’m grateful for everyone who helped me: colleagues, friends, collaborators. Without you guys, none of this happens.
 
 **Publish 3 papers**. As an academic, I’m obligated to do the work. I still managed to publish 3 first-author papers [1][2][3], plus a few other publications listed on my Google Scholar. Compared to last year, I was less productive—too many things happened in between. I think my writing and idea-building were okay, but I definitely need to be more active.
@@ -50,9 +50,9 @@ And yeah, even though I’m not a “set goals” kind of guy, when I think abou
 **Some mysterious life shift**. I do not have too many words to say about this right now. We'll talk about this later. For my homies and friends who already learned about this from me, I beg your silence.
 
 -------------------
-### Thoughts that are not covered
+## Thoughts that are not covered
 
-#### Depression
+### Depression
 I never expected to be someone who experiences depression. But I guess it’s one of those things every human might run into—and I’m not special. Weirdly, I’m glad I went through it earlier rather than later, because now I’ve learned how to deal with similar stuff in the future.
 
 First, I don’t want to blame anyone. Not my boss, not a specific colleague, not a “toxic friend.” People have their own problems and their own ways of expressing things. After almost 10 years in Europe, I should be able to adapt to different personalities and communication styles. But what I do know is: the depression and anxiety made me lose sleep, and even made my body feel weak. That’s when I realized I had to take action.
@@ -69,7 +69,7 @@ Here are a few things I did to climb out of it—hope this helps someone else to
 I really wanna shout out to all my friends, especially couple of them (won't mention their names here), who not only encouraged me to make a change and move on, but also brought/led me to a lot of interesting activities and events (e.g. my [1st](https://www.youtube.com/watch?v=wZKS1HuMFAU) and [2nd](https://x.com/rina_togetoge/status/1975512705533681858) concert!!! I owe you AKe my boy). It also encouraged me to embrace more events hosting around and not considering work from time to time.
 
 
-#### Japan
+### Japan
 After living in Japan for more than 2.5 years, I think I’ve earned the right to say a few things. If you’re someone thinking of coming to Japan as a fresh grad or newcomer, here are some trivial facts and suggestions.
 
 **The conservative shift is real**. Japan is getting more conservative and less friendly to diversity. Politically, the right wing is gaining momentum, and the policies are becoming more unfriendly to newcomers. I’m not even ranting—this is just reality. Politicians are stuck in a weird dilemma: on one hand they need more workers to address low birth rate; on the other hand, right-wing supporters believe newcomers are “corrupting” Japanese culture. So the vibe becomes: they want labor, not humans. Of course, politicians are actually quite away from regular people's lives in Japan, but the effect can be real, and I've actually experienced some incidents related during my office shift. I'm not gonna go into this too much.
@@ -82,7 +82,7 @@ So if you can separate work and life really, really well—and you’re careful 
 
 Then you my ask: WTF? Why you say you are not gonna have a future here? Are you trolling us?
 
-#### My really needs
+### My really needs
 Here’s the answer.
 
 After the depression, I started thinking very seriously about what I actually want to do long-term. And I finally pulled the real thought back out of my heart:
@@ -108,7 +108,7 @@ UNDERDOG
 Zhengzhou, 4C, Cloudy
 
 -------------------
-### References
+## References
 [1] [Learning Relationship between Speaker Embeddings and Descriptions of Speaker Traits](https://ieeexplore.ieee.org/document/11316395), **Xuechen Liu**, Junichi Yamagishi, Xin Wang, and Erica Cooper, IEEE Transactions on Audio, Speech and Language Processing, 2025.
 
 [2] [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://www.arxiv.org/abs/2507.16220), **Xuechen Liu**, Wanying Ge, Xin Wang, and Junichi Yamagishi, IEEE IJCB 2025 (oral), Osaka, Japan.

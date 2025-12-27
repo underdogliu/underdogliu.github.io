@@ -10,13 +10,13 @@ disableAnchoredHeadings: true
 ---
 
 ---
-### Short Openings
+## Short Openings
 2024 has been a very dramatic year in this world, as I don't have to mention too much since everybody already knows. So here, I am not gonna express my personal opinions on world-events too much, even though I have already talked about them via offline chats with many of my friends and acquintances. 
 
 This post will be only me reviewing myself --- aka, an overall personal assessment. Of course, as I write here, I have just begun my thoughts about this, so this will also not be a very nice-looking, fully-polished article: It will look a bit random, messy and chaotic, although I will try my best to keep the degree of randomness, messiness, and chaos "a little bit".
 
 -------------------
-### Going through my personal notion
+## Going through my personal notion
 Below are some achievements I am thankful for all people helping me, including my colleagues, friends and all collaborators --- without you guys, none of this would happen.
 
 **Publish 3 papers**. The first paper is actually last year's work about spoof-aware speaker verification [1], which actually went through multiple rounds of reviews over a year. I guess it's because I submitted it in not a good timing, in order to give a full period (or exclamation point? LOL) for my PhD. It is actually the last paper of my thesis and I glad it works. Other 2 papers are more solely about anti-spoofing [2][3].
@@ -38,7 +38,7 @@ Of course, even though I am not a guy who likes setting goals, but now when I'm 
 **Build muscles**. Even though I can blame this to running too much, I know I really can't. So I'll see y'all next year in the gym at 7!
 
 -------------------
-### Things that are not covered in notion
+## Things that are not covered in notion
 .....but more important from life perspective.
 
 The best achievement I have this year is to be a better team player, not only in work but also in sports. In the work, I think there have been quite a tough period where I actually made a lot of mistakes due to mis-communications, and I believe those costed me a lot. But thanks to those, I believe I begin to find a nice-working paradigm with my group mates, which will lead us to a much better and more productive 2025. In terms of sports, I have been involved in both basketball and football friendly groups and met a lot of people --- you guys have been amazing and a big Happy New Year to all of you!
@@ -49,7 +49,7 @@ In basketball, I know I cannot rely on my speed and explosiveness forever, so I 
 But most importantly, as a 30-year-old, even though mentally I guess I still am a boy (on pitches and courts we are still being called ``boys" a lot lol), When getting practical, I know I gotta be more like a man --- be more patience, do things slow, take responsibilities, and know where to reply on when feeling down. I'll take these to the 1st year of my 30s, and see where I will be at.
 
 -------------------
-### Little bit other thoughts....Just a little bit
+## Little bit other thoughts....Just a little bit
 **Neutralness**. Apart from above, this has been a year where I have been really settled and fully embraced the peacefulness of a particular city. No matter how noisy outside world is, no matter how optimistic or pessimistic people are concerned, my mind has been quite neutral always. Somehow I found that as this world is going more and more conservative and polarized, neutralness becomes more like a precious property. 
 
 **Lost**. This year this most frequent question that I have been asked is "where you gonna settle yourself?". As indicated from above, I still don't know. Having been in many places during these years, I think this question will at least still be with me for another 2 or 3 years, even though for people who keep bothering me with this question: you don't know how much I wanna have this answer myself. But again, I believe things will come by nature and I will keep holding my vibe to it.
@@ -67,7 +67,7 @@ UNDERDOG
 Tokyo, 0C, Sunny
 
 -------------------
-### References
+## References
 [1] [Generalizing Speaker Verification for Spoof Awareness in the Embedding Space](https://arxiv.org/abs/2401.11156), **Xuechen Liu**, Md Sahidullah, Kong Aik Lee, and Tomi Kinnunen, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2024.
 
 [2] [A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection](https://arxiv.org/abs/2408.14066), **Xuechen Liu**, Xin Wang, and Junichi Yamagishi, IEEE BIOSIG 2024, Darmstadt, Germany.
