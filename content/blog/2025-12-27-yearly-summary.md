@@ -39,6 +39,7 @@ I also have finished [a half marathon](https://minato-half.jp) later this year c
 - [Atami & Ito](https://www.japan-guide.com/e/e6317.html), with friends
 - [Fuji-San](https://www.japan-guide.com/e/e2172.html), solo
 - [U.S. Fleet Activities Yokosuka](https://yokosuka-gunko.jp), with friends
+
 Japan is honestly one of the best places for traveling, if not the best. Not just because of service, but because it’s so convenient: the country isn’t huge, yet it’s packed with nature and variety, and everything is reachable.
 
 And yeah, even though I’m not a “set goals” kind of guy, when I think about next year, there are things I believe are going to happen. Not wishes anymore. I’m done with wishes and “goals.”
