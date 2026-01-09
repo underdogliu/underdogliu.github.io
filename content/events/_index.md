@@ -1,12 +1,12 @@
 ---
 title: "Events"
-description: "Other academic activities"
+description: "Academic & other activities"
 ---
 
-This tab includes all my alternative activities. I am slowly updating it.
+This tab includes all my academic activities and events.
 
 ---
-### Presentations & Talks (This list does not include conference posters)
+### Presentations & Talks
 * 2025
     * IJCB 2025 @ Osaka, Japan
         * [09.10 - LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://drive.google.com/file/d/17-o3KAOdhvv_WuFWRxfozNN2q8Bungmt/view?usp=share_link)
@@ -85,7 +85,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * ACM TIST: 2023
 * Computer Speech and Language: 2023
 * IEEE Signal Processing Letters: 2021, 2023, 2024
-* IEEE (formerly IEEE/ACM) T-ASLP: 2023, 2024, 2025
+* IEEE (formerly IEEE/ACM) T-ASLP: 2023, 2024, 2025, 2026
 * IEEE T-IFS: 2023, 2024
 * Neural Networks: 2024
 * Speech Communication: 2024
@@ -95,6 +95,7 @@ This tab includes all my alternative activities. I am slowly updating it.
 * ICLR: 2022, 2023, 2024, 2026
 * ICML: 2023, 2024, 2025
 * IEEE ICASSP: 2023, 2024
+* IEEE ICME: 2026
 * IEEE ASRU: 2023, 2025
 * IEEE SLT: 2024
 * ISCA Interspeech: 2024, 2025
