@@ -3,9 +3,7 @@ title: "Papers"
 description: "Selected publications by year in reverse order"
 ---
 
-Below are selected (mainly 1st-authored) papers.
-
-I have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including more co-authored works (In Chinese, it's called "打酱油").
+Below are selected (mainly 1st-authored) papers. I also have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including more co-authored works.
 
 -------------------
 ### 2025
