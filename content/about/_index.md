@@ -9,6 +9,7 @@ I am an incoming Assistant Professor at the [School of AI and Advanced Computing
  * Audio Security (deepfake detection & analysis, replay detection, speaker verification)
  * Speech Recognition
  * Speech Synthesis
+ * Speech Perception
 
 **Education & Experience**
  * 2012–2016: BEng Computer Engineering, XJTLU & University of Liverpool
