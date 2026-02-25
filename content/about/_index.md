@@ -4,12 +4,17 @@ description: "Little bit about myself."
 ---
 
 -------------------
-I am an incoming Assistant Professor at the [School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). My primary research interests span the following directions:
+I am an incoming Assistant Professor at the [School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
+
+My primary research interests span the following directions:
  * Multi-Modal Representation Learning (with a focus on audio)
  * Audio Security (deepfake detection & analysis, replay detection, speaker verification)
  * Speech Recognition
  * Speech Synthesis
  * Speech Perception
+
+I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, TASLP) as well as machine learning conferences (NeurIPS, ICLR, ICML). I am also an active contributor to open-source projects and community challenges (e.g. [ASVspoof](https://www.asvspoof.org), [SpeechBrain](https://github.com/speechbrain/speechbrain)).
+
 
 **Education & Experience**
  * 2012–2016: BEng Computer Engineering, XJTLU & University of Liverpool
@@ -19,9 +24,8 @@ I am an incoming Assistant Professor at the [School of AI and Advanced Computing
  * 2023–2026: Postdoctoral Researcher, [Yamagishi Lab @ National Institute of Informatics](https://yamagishilab.jp)
  * 2026-: Assistant Professor, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
 
-I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, TASLP) as well as machine learning conferences (NeurIPS, ICLR, ICML). I am also an active contributor to open-source projects and community challenges (e.g. [ASVspoof](https://www.asvspoof.org), [SpeechBrain](https://github.com/speechbrain/speechbrain)).
 
-A few fun facts about me:
+**Few Personal Fun Facts**
 * I find solace in training for and competing in various ball sports. They are largely responsible for my procrastination.
 * I have been a fan of rap music for decades, with no particular genre preference. I almost never avoid the controversial content in rap; to me, it reflects an openness to the diverse and unfiltered aspects of life. I used to try MC and [chopping](https://en.wikipedia.org/wiki/Chopper_(rap)), though not quite at that level anymore.
 * I never acknowledge myself as a nomad, yet life makes me one by letting me have lived (not just visited) in 8 cities across 5 countries.
