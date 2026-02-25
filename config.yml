@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Xuechen "UNDERDOG" Liu
-          subtitle: "Postdoctoral researcher at [Yamagishi lab @ National Institute of Informatics](https://nii-yamagishilab.github.io/)"
+          subtitle: "Assistant Professor at School of AI and Advanced Computing, Xi'an Jiaotong Liverpool University"
           imageUrl: "xuechen-avatar.png"
           imageWidth: 160
           imageHeight: 160
