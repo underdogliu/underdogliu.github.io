@@ -80,28 +80,30 @@ This tab includes all my academic activities and events.
 -------------------
 ### Teaching & Reviewing
 
+#### Teaching (including TA & guest lecturing)
+* Data Structure & Algorithms @ XJTLU: 2026
+* Computer Architecture and Operating Systems @ XJTLU: 2026
+* Special Course in Speech Security and Privacy @ UEF: 2023
+* Artificial Intelligence @ UEF: 2021, 2022
+* Machine Learning for Speech @ UEF: 2020, 2022
+
 #### Journal Paper Reviewing
-* ACL ARR: 2025
-* ACM TIST: 2023
-* Computer Speech and Language: 2023
-* IEEE Signal Processing Letters: 2021, 2023, 2024
+* IEEE Signal Processing Letters: 2021, 2023, 2024, 2026
 * IEEE (formerly IEEE/ACM) T-ASLP: 2023, 2024, 2025, 2026
+* ACL ARR: 2025
 * IEEE T-IFS: 2023, 2024
 * Neural Networks: 2024
 * Speech Communication: 2024
+* ACM TIST: 2023
+* Computer Speech and Language: 2023
 
 #### Conference Paper Reviewing
 * AAAI: 2026
 * ICLR: 2022, 2023, 2024, 2026
-* ICML: 2023, 2024, 2025
-* IEEE ICASSP: 2023, 2024
 * IEEE ICME: 2026
-* IEEE ASRU: 2023, 2025
-* IEEE SLT: 2024
-* ISCA Interspeech: 2024, 2025
+* ISCA Interspeech: 2024, 2025, 2026
+* ICML: 2023, 2024, 2025
 * NeurIPS: 2022, 2023, 2024, 2025
-
-#### Teaching (TA, guest lecturing)
-* Artificial Intelligence @ UEF: 2021, 2022
-* Machine Learning for Speech @ UEF: 2020, 2022
-* Special Course in Speech Security and Privacy @ UEF: 2023
+* IEEE ASRU: 2023, 2025
+* IEEE ICASSP: 2023, 2024
+* IEEE SLT: 2024

@@ -4,7 +4,7 @@ description: "Little bit about myself."
 ---
 
 -------------------
-I am an incoming Assistant Professor at the [School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
+I am an Assistant Professor at the [School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
 
 My primary research interests span the following directions:
  * Multi-Modal Representation Learning (with a focus on audio)
@@ -22,7 +22,7 @@ I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, T
  * 2017–2019: R&D Engineer, [Emotech Ltd.](https://emotech.ai) @ Edinburgh/London, UK
  * 2020–2023: PhD Computer Science, [University of Eastern Finland](http://www.uef.fi/en/web/cs), jointly funded with [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/)
  * 2023–2026: Postdoctoral Researcher, [Yamagishi Lab @ National Institute of Informatics](https://yamagishilab.jp)
- * 2026-: Assistant Professor, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
+ * 2026-Now: Assistant Professor, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
 
 
 **Few Personal Fun Facts**
@@ -33,7 +33,7 @@ I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, T
 
 A more detailed CV is available upon request. Cheers to the journey ahead!
 
-Email: xuechenliu1005@gmail.com
+Email: Xuechen.Liu@xjtlu.edu.cn
 
 -------------------
 ### Recent News
