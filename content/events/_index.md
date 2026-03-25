@@ -103,7 +103,6 @@ This tab includes all my academic activities and events.
 * IEEE ICME: 2026
 * ISCA Interspeech: 2024, 2025, 2026
 * ICML: 2023, 2024, 2025
-* NeurIPS: 2022, 2023, 2024, 2025
 * IEEE ASRU: 2023, 2025
 * IEEE ICASSP: 2023, 2024
 * IEEE SLT: 2024

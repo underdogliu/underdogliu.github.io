@@ -13,7 +13,7 @@ My primary research interests span the following directions:
  * Speech Synthesis
  * Speech Perception
 
-I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, TASLP) as well as machine learning conferences (NeurIPS, ICLR, ICML). I am also an active contributor to open-source projects and community challenges (e.g. [ASVspoof](https://www.asvspoof.org), [SpeechBrain](https://github.com/speechbrain/speechbrain)).
+I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, TASLP) as well as machine learning conferences (ICLR, ICML). I am also an active contributor to open-source projects and community challenges (e.g. [ASVspoof](https://www.asvspoof.org), [SpeechBrain](https://github.com/speechbrain/speechbrain)).
 
 
 **Education & Experience**
