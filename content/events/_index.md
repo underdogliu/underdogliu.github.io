@@ -88,14 +88,13 @@ This tab includes all my academic activities and events.
 * Machine Learning for Speech @ UEF: 2020, 2022
 
 #### Journal Paper Reviewing
-* IEEE Signal Processing Letters: 2021, 2023, 2024, 2026
-* IEEE (formerly IEEE/ACM) T-ASLP: 2023, 2024, 2025, 2026
-* ACL ARR: 2025
-* IEEE T-IFS: 2023, 2024
-* Neural Networks: 2024
-* Speech Communication: 2024
-* ACM TIST: 2023
-* Computer Speech and Language: 2023
+* IEEE Signal Processing Letters
+* IEEE (formerly IEEE/ACM) Transactions on Audio, Speech and Language Processing
+* IEEE Transactions on Information Forensics and Security
+* Neural Networks
+* Speech Communication
+* ACM Transactions on Intelligent Systems and Technology
+* Computer Speech and Language
 
 #### Conference Paper Reviewing
 * AAAI: 2026
