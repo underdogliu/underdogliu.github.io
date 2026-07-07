@@ -17,7 +17,7 @@ I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, T
 
 
 **Education & Experience**
- * 2012–2016: BEng Computer Engineering, XJTLU & University of Liverpool
+ * 2012–2016: BEng Computer Engineering, Xi'an Jiaotong-Liverpool University & University of Liverpool
  * 2016–2017: MSc Artificial Intelligence, University of Edinburgh
  * 2017–2019: R&D Engineer, [Emotech Ltd.](https://emotech.ai) @ Edinburgh/London, UK
  * 2020–2023: PhD Computer Science, [University of Eastern Finland](http://www.uef.fi/en/web/cs), jointly funded with [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/)
@@ -37,9 +37,12 @@ Email: Xuechen.Liu@xjtlu.edu.cn
 
 -------------------
 ### Recent News
+* 2026-07-03: Our [proposal for NCMMSC 2026](https://www.ncmmsc.org.cn/news/show.asp?id=49) has been accepted. See you at Hengqin, China!
+* 2026-06-04: One co-authored paper has been accepted to [Interspeech 2026](https://interspeech2026.org/en-AU).
 * 2026-03-02: I am gonna be on-board as an Assistant Professor at XJTLU Taicang campus!
-* 2026-01-17: Two co-authored papers have been accepted to [IEEE ICASSP 2026](https://2026.ieeeicassp.org/).
-* 2025-12-18: One paper has been accepted to [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing).
+
+[//]: # (* 2026-01-17: Two co-authored papers have been accepted to [IEEE ICASSP 2026]&#40;https://2026.ieeeicassp.org/&#41;.)
+[//]: # (* 2025-12-18: One paper has been accepted to [IEEE TASLP]&#40;https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing&#41;.)
 <!-- * 2025-08-06: One co-authored paper has been accepted to [ASRU 2025](https://2025.ieeeasru.org). -->
 <!-- * 2025-07-10: One paper has been accepted to [IJCB 2025](https://ijcb2025.ieee-biometrics.org). -->
 <!-- * 2025-05-28: The [ASVspoof5 database paper](https://www.sciencedirect.com/science/article/pii/S0885230825000506?via%3Dihub) has been accepted to [Computer, Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)! Please have a check on our effort on building the database for the latest version of the ASVspoof series. -->
