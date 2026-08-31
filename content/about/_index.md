@@ -4,14 +4,14 @@ description: "Little bit about myself."
 ---
 
 -------------------
-I am an Assistant Professor at the [School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
+I am an Assistant Professor at the Academy of AI and Advanced Technology, Xi'an Jiaotong-Liverpool University (XJTLU). Previously I am at [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
 
 My primary research interests span the following directions:
- * Multi-Modal Representation Learning (with a focus on audio)
  * Audio Security (deepfake detection & analysis, replay detection, speaker verification)
  * Speech Recognition
  * Speech Synthesis
  * Speech Perception
+* Multi-Modal Representation Learning (with a focus on audio)
 
 I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, TASLP) as well as machine learning conferences (ICLR, ICML). I am also an active contributor to open-source projects and community challenges (e.g. [ASVspoof](https://www.asvspoof.org), [SpeechBrain](https://github.com/speechbrain/speechbrain)).
 
@@ -22,7 +22,7 @@ I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, T
  * 2017–2019: R&D Engineer, [Emotech Ltd.](https://emotech.ai) @ Edinburgh/London, UK
  * 2020–2023: PhD Computer Science, [University of Eastern Finland](http://www.uef.fi/en/web/cs), jointly funded with [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/)
  * 2023–2026: Postdoctoral Researcher, [Yamagishi Lab @ National Institute of Informatics](https://yamagishilab.jp)
- * 2026-Now: Assistant Professor, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
+ * 2026-Now: Assistant Professor, Academy of AI and Advanced Technology (Previously School of AI and Advanced Computing), Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
 
 
 **Few Personal Fun Facts**
@@ -37,12 +37,13 @@ Email: Xuechen.Liu@xjtlu.edu.cn
 
 -------------------
 ### Recent News
+* 2026-08-05: Our [proposal for ACM Multimedia Asia 2026](https://mmasia2026.org/calls/special-session-trustworthy-speech-audio-ai) has been accepted. See you at Hanoi, Vietnam!
 * 2026-07-03: Our [proposal for NCMMSC 2026](https://www.ncmmsc.org.cn/news/show.asp?id=49) has been accepted. See you at Hengqin, China!
 * 2026-06-04: One co-authored paper has been accepted to [Interspeech 2026](https://interspeech2026.org/en-AU).
-* 2026-03-02: I am gonna be on-board as an Assistant Professor at XJTLU Taicang campus!
 
-[//]: # (* 2026-01-17: Two co-authored papers have been accepted to [IEEE ICASSP 2026]&#40;https://2026.ieeeicassp.org/&#41;.)
-[//]: # (* 2025-12-18: One paper has been accepted to [IEEE TASLP]&#40;https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing&#41;.)
+<!-- * 2026-03-02: I am gonna be on-board as an Assistant Professor at XJTLU Taicang campus! -->
+<!-- [//]: # (* 2026-01-17: Two co-authored papers have been accepted to [IEEE ICASSP 2026]&#40;https://2026.ieeeicassp.org/&#41;.)
+[//]: # (* 2025-12-18: One paper has been accepted to [IEEE TASLP]&#40;https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing&#41;.) -->
 <!-- * 2025-08-06: One co-authored paper has been accepted to [ASRU 2025](https://2025.ieeeasru.org). -->
 <!-- * 2025-07-10: One paper has been accepted to [IJCB 2025](https://ijcb2025.ieee-biometrics.org). -->
 <!-- * 2025-05-28: The [ASVspoof5 database paper](https://www.sciencedirect.com/science/article/pii/S0885230825000506?via%3Dihub) has been accepted to [Computer, Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)! Please have a check on our effort on building the database for the latest version of the ASVspoof series. -->
