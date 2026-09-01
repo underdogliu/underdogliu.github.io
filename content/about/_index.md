@@ -22,12 +22,12 @@ I serve as a regular reviewer at speech and audio venues (ICASSP, Interspeech, T
  * 2017–2019: R&D Engineer, [Emotech Ltd.](https://emotech.ai) @ Edinburgh/London, UK
  * 2020–2023: PhD Computer Science, [University of Eastern Finland](http://www.uef.fi/en/web/cs), jointly funded with [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/)
  * 2023–2026: Postdoctoral Researcher, [Yamagishi Lab @ National Institute of Informatics](https://yamagishilab.jp)
- * 2026-Now: Assistant Professor, Academy of AI and Advanced Technology (Previously School of AI and Advanced Computing), Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
+ * 2026-Now: Assistant Professor, Xi'an Jiaotong-Liverpool University @ Taicang, Jiangsu, China
 
 
 **Few Personal Fun Facts**
 * I find solace in training for and competing in various ball sports. They are largely responsible for my procrastination.
-* I have been a fan of rap music for decades, with no particular genre preference. I almost never avoid the controversial content in rap; to me, it reflects an openness to the diverse and unfiltered aspects of life. I used to try MC and [chopping](https://en.wikipedia.org/wiki/Chopper_(rap)), though not quite at that level anymore.
+* I have been a fan of rap music for decades, with no particular sub-Wgenre preference. I almost never avoid the controversial content in rap; to me, it reflects an openness to the diverse and unfiltered aspects of life. I used to try MC and [chopping](https://en.wikipedia.org/wiki/Chopper_(rap)), though not quite at that level anymore. I also listen many songs under K-POP, J-POP, and Math-Rock.
 * I never acknowledge myself as a nomad, yet life makes me one by letting me have lived (not just visited) in 8 cities across 5 countries.
 * I have made the full journey from digital product hoarder to practicing minimalist.
 
