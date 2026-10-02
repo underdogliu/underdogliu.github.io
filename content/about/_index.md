@@ -37,10 +37,11 @@ Email: Xuechen.Liu@xjtlu.edu.cn
 
 -------------------
 ### Recent News
+* 2026-10-02: One co-authored paper has been accepted to [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing).
 * 2026-09-25: Two co-authored papers have been accepted to [EMNLP 2026](https://2026.emnlp.org) and [NeuralPS 2026](https://neurips.cc) respectively.
 * 2026-08-29: The APSIPA 2026 RADAR Challenge [evaluation set](https://zenodo.org/records/22110815) has been released.
 * 2026-08-05: Our [proposal for ACM Multimedia Asia 2026](https://mmasia2026.org/calls/special-session-trustworthy-speech-audio-ai) has been accepted. See you at Hanoi, Vietnam!
-<!-- * 2026-07-03: Our [proposal for NCMMSC 2026](https://www.ncmmsc.org.cn/news/show.asp?id=49) has been accepted. See you at Hengqin, China! -->
+* 2026-07-03: Our [proposal for NCMMSC 2026](https://www.ncmmsc.org.cn/news/show.asp?id=49) has been accepted. See you at Hengqin, China!
 <!-- * 2026-06-04: One co-authored paper has been accepted to [Interspeech 2026](https://interspeech2026.org/en-AU). -->
 <!-- * 2026-03-02: I am gonna be on-board as an Assistant Professor at XJTLU Taicang campus! -->
 <!-- [//]: # (* 2026-01-17: Two co-authored papers have been accepted to [IEEE ICASSP 2026]&#40;https://2026.ieeeicassp.org/&#41;.)
