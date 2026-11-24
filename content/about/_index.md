@@ -4,7 +4,7 @@ description: "Little bit about myself."
 ---
 
 -------------------
-I am an Assistant Professor at the Academy of AI and Advanced Technology, Xi'an Jiaotong-Liverpool University (XJTLU). Previously I am at [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), based at the newly established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
+I am an Assistant Professor at the Academy of Artificial Intelligence and Advanced Technology (AoAIAT), Xi'an Jiaotong-Liverpool University (XJTLU). Previously I am at [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing). I am based at the newly-established [XJTLU Entrepreneur College](https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang) in [Taicang](https://en.wikipedia.org/wiki/Taicang). 
 
 My primary research interests span the following directions:
  * Audio Security (deepfake detection & analysis, replay detection, speaker verification)

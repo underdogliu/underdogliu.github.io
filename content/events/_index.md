@@ -8,9 +8,12 @@ This tab includes all my academic activities and events.
 ---
 ### Presentations & Talks
 * 2026
+    * 11.17 - Tutorial talk @ ISCSLP 2026, Pe'nang, Malaysia
+        * [Securing the Voice: A Tutorial on Audio DeepFake Mitigation](https://docs.google.com/presentation/d/1PUM-MDZ3syajSa3xBdbbizW1rRLIUbxs/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
+    * 10.30 - Seminar talk @ CCBR 2026, Xi'an, China
+        * [Audio Security: History & Insights from Recent Challenges](https://docs.google.com/presentation/d/1QttV5d73nwylOvPXNUAUBCfei2oiyePW/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
     * 04.10 - Visiting talk @ Duke-Kunshan University, China
-        * Audio Security - Where have we been, where are we, and where are we going?
-        * (Slides coming soon)
+        * [Audio Security - Where have we been, where are we, and where are we going?](https://docs.google.com/presentation/d/1jqQiPQtLKKLFyAjrzvoDsAriNzdEXAM6/edit?usp=sharing&ouid=116129211760406601542&rtpof=true&sd=true)
 * 2025
     * 09.10 - IJCB 2025 @ Osaka, Japan
         * [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://drive.google.com/file/d/17-o3KAOdhvv_WuFWRxfozNN2q8Bungmt/view?usp=share_link)

@@ -6,8 +6,10 @@ description: "Selected publications by year in reverse order"
 Below are selected (mainly 1st-authored) papers. I also have a [Google Scholar profile](https://scholar.google.com/citations?user=Xou0DaUAAAAJ&hl=zh-CN), including more co-authored works.
 
 -------------------
+### 2026
+* [Learning Relationship between Speaker Embeddings and Descriptions of Speaker Traits](https://ieeexplore.ieee.org/document/11316395), **Xuechen Liu**, Junichi Yamagishi, Xin Wang, and Erica Cooper, IEEE Transactions on Audio, Speech and Language Processing (TASLPRO), 2026.
+
 ### 2025
-* [Learning Relationship between Speaker Embeddings and Descriptions of Speaker Traits](https://ieeexplore.ieee.org/document/11316395), **Xuechen Liu**, Junichi Yamagishi, Xin Wang, and Erica Cooper, IEEE Transactions on Audio, Speech and Language Processing, 2025.
 * [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://www.arxiv.org/abs/2507.16220), **Xuechen Liu**, Wanying Ge, Xin Wang, and Junichi Yamagishi, IEEE IJCB 2025 (oral), Osaka, Japan.
 * [Explaining Speaker and Spoof Embeddings via Probing](https://arxiv.org/abs/2412.18191), **Xuechen Liu**, Junichi Yamagishi, Md Sahidullah, and Tomi Kinnunen, IEEE ICASSP 2025 (oral), Hyderabad, India.
 
